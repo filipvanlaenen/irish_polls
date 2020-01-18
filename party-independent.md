@@ -99,10 +99,10 @@ Last result: **19** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 0–18 | 0–18 | 0–19 | 0–23 |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 16 | 16–17 | 15–18 | 14–21 | 10–22 |
+| N/A | [Poll Average](average.html) | 14 | 0–17 | 0–19 | 0–19 | 0–21 |
+| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 16 | 16–17 | 16–17 | 16–18 | 15–20 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 5 | 4–8 | 3–11 | 3–13 | 3–15 |
-| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 19 | 16–19 | 15–19 | 14–19 | 13–23 |
+| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 16 | 15–19 | 15–19 | 15–20 | 13–22 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
@@ -172,20 +172,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 58% |  |
 | 8 | 4% | 56% |  |
 | 9 | 0.4% | 52% |  |
-| 10 | 0.4% | 52% |  |
+| 10 | 0.3% | 52% |  |
 | 11 | 0.6% | 52% |  |
-| 12 | 0.7% | 51% |  |
-| 13 | 0.9% | 50% | Median |
-| 14 | 0.4% | 49% |  |
-| 15 | 5% | 49% |  |
-| 16 | 23% | 44% |  |
-| 17 | 7% | 21% |  |
-| 18 | 10% | 14% |  |
-| 19 | 2% | 4% | Last Result |
-| 20 | 0.3% | 2% |  |
-| 21 | 0.5% | 2% |  |
-| 22 | 0.6% | 1.1% |  |
-| 23 | 0.6% | 0.6% |  |
+| 12 | 0.3% | 51% |  |
+| 13 | 0.7% | 51% |  |
+| 14 | 0.4% | 50% | Median |
+| 15 | 6% | 50% |  |
+| 16 | 28% | 43% |  |
+| 17 | 7% | 15% |  |
+| 18 | 2% | 7% |  |
+| 19 | 4% | 6% | Last Result |
+| 20 | 0.7% | 1.2% |  |
+| 21 | 0.1% | 0.5% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
 

@@ -281,10 +281,16 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Fine Gael – Fianna Fáil | 93 | 129 | 100% | 121–133 | 121–133 | 120–133 | 118–133 |
+| Fine Gael – Green Party/Comhaontas Glas – Labour Party | 58 | 83 | 62% | 78–87 | 75–87 | 75–89 | 74–89 |
+| Fine Gael – Green Party/Comhaontas Glas – Labour Party – Social Democrats | 61 | 83 | 64% | 78–87 | 75–88 | 75–89 | 74–89 |
 | Fianna Fáil – Sinn Féin | 67 | 76 | 17% | 73–82 | 72–84 | 70–85 | 70–86 |
+| Fine Gael – Green Party/Comhaontas Glas | 51 | 78 | 35% | 74–83 | 73–84 | 72–84 | 68–84 |
 | Fine Gael – Labour Party | 56 | 76 | 16% | 71–82 | 69–82 | 68–82 | 68–83 |
 | Fine Gael | 49 | 72 | 0% | 69–77 | 66–77 | 66–77 | 63–78 |
+| Fianna Fáil – Green Party/Comhaontas Glas – Labour Party | 53 | 64 | 0% | 59–69 | 57–70 | 57–70 | 57–72 |
+| Fianna Fáil – Green Party/Comhaontas Glas – Labour Party – Social Democrats | 56 | 64 | 0% | 59–70 | 57–70 | 57–70 | 57–72 |
 | Fianna Fáil – Green Party/Comhaontas Glas | 46 | 62 | 0% | 55–66 | 55–67 | 54–68 | 54–69 |
+| Fianna Fáil – Labour Party | 51 | 58 | 0% | 54–62 | 51–64 | 51–64 | 51–66 |
 
 ### Fine Gael – Fianna Fáil
 
@@ -335,6 +341,89 @@
 | 133 | 10% | 10% |  |
 | 134 | 0% | 0% |  |
 
+### Fine Gael – Green Party/Comhaontas Glas – Labour Party
+
+![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-fg–gp–lab.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 58 | 0% | 100% | Last Result |
+| 59 | 0% | 100% |  |
+| 60 | 0% | 100% |  |
+| 61 | 0% | 100% |  |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 99.9% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0.1% | 99.8% |  |
+| 74 | 2% | 99.8% |  |
+| 75 | 3% | 98% |  |
+| 76 | 2% | 95% |  |
+| 77 | 1.2% | 93% |  |
+| 78 | 7% | 92% |  |
+| 79 | 8% | 84% |  |
+| 80 | 14% | 76% |  |
+| 81 | 8% | 62% | Majority |
+| 82 | 3% | 54% | Median |
+| 83 | 4% | 51% |  |
+| 84 | 18% | 47% |  |
+| 85 | 9% | 29% |  |
+| 86 | 1.2% | 20% |  |
+| 87 | 14% | 18% |  |
+| 88 | 1.1% | 5% |  |
+| 89 | 3% | 3% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0.1% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
+
+### Fine Gael – Green Party/Comhaontas Glas – Labour Party – Social Democrats
+
+![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-fg–gp–lab–sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 61 | 0% | 100% | Last Result |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0% | 100% |  |
+| 69 | 0% | 100% |  |
+| 70 | 0% | 100% |  |
+| 71 | 0% | 99.9% |  |
+| 72 | 0.1% | 99.9% |  |
+| 73 | 0% | 99.8% |  |
+| 74 | 2% | 99.8% |  |
+| 75 | 3% | 98% |  |
+| 76 | 0.9% | 95% |  |
+| 77 | 2% | 94% |  |
+| 78 | 8% | 92% |  |
+| 79 | 6% | 85% |  |
+| 80 | 15% | 79% |  |
+| 81 | 9% | 64% | Majority |
+| 82 | 3% | 55% | Median |
+| 83 | 4% | 52% |  |
+| 84 | 20% | 49% |  |
+| 85 | 7% | 29% |  |
+| 86 | 2% | 22% |  |
+| 87 | 14% | 20% |  |
+| 88 | 2% | 6% |  |
+| 89 | 4% | 4% |  |
+| 90 | 0% | 0.1% |  |
+| 91 | 0% | 0.1% |  |
+| 92 | 0.1% | 0.1% |  |
+| 93 | 0% | 0% |  |
+
 ### Fianna Fáil – Sinn Féin
 
 ![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-ff–sf.png "Seats Probability Mass Function")
@@ -366,6 +455,49 @@
 | 89 | 0% | 0.1% |  |
 | 90 | 0% | 0.1% |  |
 | 91 | 0% | 0% |  |
+
+### Fine Gael – Green Party/Comhaontas Glas
+
+![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-fg–gp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 51 | 0% | 100% | Last Result |
+| 52 | 0% | 100% |  |
+| 53 | 0% | 100% |  |
+| 54 | 0% | 100% |  |
+| 55 | 0% | 100% |  |
+| 56 | 0% | 100% |  |
+| 57 | 0% | 100% |  |
+| 58 | 0% | 100% |  |
+| 59 | 0% | 100% |  |
+| 60 | 0% | 100% |  |
+| 61 | 0% | 100% |  |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0% | 100% |  |
+| 67 | 0.1% | 100% |  |
+| 68 | 0.6% | 99.9% |  |
+| 69 | 0.1% | 99.4% |  |
+| 70 | 0.5% | 99.2% |  |
+| 71 | 0.7% | 98.7% |  |
+| 72 | 2% | 98% |  |
+| 73 | 3% | 96% |  |
+| 74 | 4% | 93% |  |
+| 75 | 9% | 89% |  |
+| 76 | 8% | 80% |  |
+| 77 | 11% | 73% |  |
+| 78 | 12% | 62% | Median |
+| 79 | 11% | 50% |  |
+| 80 | 4% | 39% |  |
+| 81 | 2% | 35% | Majority |
+| 82 | 14% | 33% |  |
+| 83 | 9% | 19% |  |
+| 84 | 9% | 10% |  |
+| 85 | 0.3% | 0.3% |  |
+| 86 | 0% | 0% |  |
 
 ### Fine Gael – Labour Party
 
@@ -445,6 +577,68 @@
 | 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0% |  |
 
+### Fianna Fáil – Green Party/Comhaontas Glas – Labour Party
+
+![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-ff–gp–lab.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 53 | 0% | 100% | Last Result |
+| 54 | 0% | 100% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.1% | 99.9% |  |
+| 57 | 6% | 99.9% |  |
+| 58 | 0.2% | 94% |  |
+| 59 | 4% | 93% |  |
+| 60 | 2% | 90% |  |
+| 61 | 4% | 88% |  |
+| 62 | 3% | 84% |  |
+| 63 | 29% | 81% |  |
+| 64 | 6% | 52% |  |
+| 65 | 5% | 46% | Median |
+| 66 | 4% | 41% |  |
+| 67 | 19% | 37% |  |
+| 68 | 7% | 18% |  |
+| 69 | 2% | 11% |  |
+| 70 | 8% | 9% |  |
+| 71 | 0.4% | 1.2% |  |
+| 72 | 0.6% | 0.8% |  |
+| 73 | 0.1% | 0.2% |  |
+| 74 | 0.1% | 0.2% |  |
+| 75 | 0% | 0.1% |  |
+| 76 | 0% | 0% |  |
+
+### Fianna Fáil – Green Party/Comhaontas Glas – Labour Party – Social Democrats
+
+![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-ff–gp–lab–sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 55 | 0.1% | 100% |  |
+| 56 | 0.1% | 99.9% | Last Result |
+| 57 | 6% | 99.9% |  |
+| 58 | 0.2% | 94% |  |
+| 59 | 4% | 93% |  |
+| 60 | 1.4% | 90% |  |
+| 61 | 4% | 88% |  |
+| 62 | 3% | 85% |  |
+| 63 | 26% | 82% |  |
+| 64 | 7% | 56% |  |
+| 65 | 8% | 49% | Median |
+| 66 | 3% | 41% |  |
+| 67 | 19% | 38% |  |
+| 68 | 5% | 20% |  |
+| 69 | 4% | 15% |  |
+| 70 | 9% | 11% |  |
+| 71 | 1.2% | 2% |  |
+| 72 | 0.6% | 0.9% |  |
+| 73 | 0.1% | 0.3% |  |
+| 74 | 0% | 0.2% |  |
+| 75 | 0% | 0.2% |  |
+| 76 | 0.1% | 0.1% |  |
+| 77 | 0% | 0.1% |  |
+| 78 | 0% | 0% |  |
+
 ### Fianna Fáil – Green Party/Comhaontas Glas
 
 ![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-ff–gp.png "Seats Probability Mass Function")
@@ -478,6 +672,33 @@
 | 70 | 0.1% | 0.4% |  |
 | 71 | 0.3% | 0.3% |  |
 | 72 | 0% | 0% |  |
+
+### Fianna Fáil – Labour Party
+
+![Graph with seats probability mass function not yet produced](2019-10-13-IpsosMRBI-coalitions-seats-pmf-ff–lab.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 49 | 0.1% | 100% |  |
+| 50 | 0.1% | 99.9% |  |
+| 51 | 6% | 99.8% | Last Result |
+| 52 | 0.2% | 93% |  |
+| 53 | 0.4% | 93% |  |
+| 54 | 6% | 93% |  |
+| 55 | 0.8% | 87% |  |
+| 56 | 3% | 86% |  |
+| 57 | 15% | 83% |  |
+| 58 | 26% | 69% |  |
+| 59 | 7% | 42% | Median |
+| 60 | 11% | 35% |  |
+| 61 | 2% | 24% |  |
+| 62 | 13% | 23% |  |
+| 63 | 1.2% | 10% |  |
+| 64 | 8% | 8% |  |
+| 65 | 0.2% | 0.8% |  |
+| 66 | 0.5% | 0.6% |  |
+| 67 | 0.1% | 0.1% |  |
+| 68 | 0% | 0% |  |
 
 
 ## Technical Information
