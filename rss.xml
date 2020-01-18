@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Dáil Éireann</title>
+    <link>https://filipvanlaenen.github.io/irish_polls</link>
+    <description>All Registered Polls for the Dáil Éireann</description>
+    <pubDate>Sat, 18 Jan 2020 16:14:14 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 26 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-12-26-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 25.8–30.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.9–27.2%&lt;/li&gt;&lt;li&gt;Sinn Féin: 13.3–16.9%&lt;/li&gt;&lt;li&gt;Labour Party: 4.0–6.2%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Social Democrats: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 5.8–8.4%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.1–2.3%&lt;/li&gt;&lt;li&gt;Independent: 10.9–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-12-26-IrelandThinks.png"
+        length="204209"
+        type="image/png"/>
+      <pubDate>Sat, 18 Jan 2020 16:14:14 +0100</pubDate>
+      <dc:date>2020-01-18T16:14:14.669372+01:00</dc:date>
+    </item>
+    <dc:date>2020-01-18T16:14:14.669372+01:00</dc:date>
+  </channel>
+</rss>
