@@ -10,14 +10,15 @@ Last result: **25.5%** (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.1% | 26.4–33.0% | 25.7–33.8% | 25.2–34.4% | 24.2–35.4% |
+| N/A | [Poll Average](average.html) | 28.9% | 27.0–31.3% | 26.5–31.9% | 26.1–32.4% | 25.4–33.5% |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 20.0% | N/A | N/A | N/A | N/A |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 28.0% | 26.6–29.5% | 26.2–29.9% | 25.8–30.3% | 25.2–31.0% |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 27.0% | 25.2–29.0% | 24.7–29.5% | 24.3–30.0% | 23.4–30.9% |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.2–32.9% | 26.4–33.9% |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 27.0% | N/A | N/A | N/A | N/A |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 32.0% | N/A | N/A | N/A | N/A |
 | [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 29.0% | N/A | N/A | N/A | N/A |
-| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 32.6% | 30.9–34.4% | 30.4–34.9% | 30.0–35.3% | 29.2–36.2% |
+| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 29.3% | 27.7–31.1% | 27.2–31.6% | 26.8–32.0% | 26.0–32.8% |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 26.0% | N/A | N/A | N/A | N/A |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 28.9% | N/A | N/A | N/A | N/A |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 26.5% | N/A | N/A | N/A | N/A |
@@ -71,23 +72,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.8% | 99.8% |  |
-| 24.5–25.5% | 3% | 99.0% |  |
-| 25.5–26.5% | 8% | 96% | Last Result |
-| 26.5–27.5% | 14% | 88% |  |
-| 27.5–28.5% | 17% | 75% |  |
-| 28.5–29.5% | 14% | 58% | Median |
-| 29.5–30.5% | 11% | 44% |  |
-| 30.5–31.5% | 10% | 33% |  |
-| 31.5–32.5% | 9% | 23% |  |
-| 32.5–33.5% | 8% | 14% |  |
-| 33.5–34.5% | 4% | 6% |  |
-| 34.5–35.5% | 2% | 2% |  |
-| 35.5–36.5% | 0.4% | 0.4% |  |
-| 36.5–37.5% | 0% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.6% | 100% |  |
+| 25.5–26.5% | 4% | 99.3% | Last Result |
+| 26.5–27.5% | 14% | 95% |  |
+| 27.5–28.5% | 22% | 81% |  |
+| 28.5–29.5% | 23% | 58% | Median |
+| 29.5–30.5% | 17% | 36% |  |
+| 30.5–31.5% | 11% | 19% |  |
+| 31.5–32.5% | 5% | 7% |  |
+| 32.5–33.5% | 2% | 2% |  |
+| 33.5–34.5% | 0.4% | 0.4% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -98,14 +95,15 @@ Last result: **49** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 65 | 56–75 | 55–77 | 54–77 | 50–77 |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 56 | 56–59 | 55–62 | 53–62 | 51–66 |
-| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 59 | 55–67 | 53–68 | 52–70 | 48–71 |
-| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 68 | 63–71 | 62–73 | 60–73 | 57–74 |
+| N/A | [Poll Average](average.html) | 58 | 50–65 | 50–66 | 49–67 | 46–69 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes |  |  |  |  |  |
+| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 53 | 50–61 | 49–61 | 48–61 | 42–62 |
+| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 51 | 47–57 | 45–59 | 42–61 | 40–64 |
+| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 63 | 58–66 | 56–67 | 55–69 | 51–70 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
-| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 72 | 69–77 | 66–77 | 66–77 | 63–78 |
+| [11–13 October 2019](2019-10-13-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 59 | 59 | 59 | 59 | 59 |
 | [5–17 September 2019](2019-09-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
@@ -161,39 +159,36 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 46 | 0% | 100% |  |
-| 47 | 0% | 99.9% |  |
-| 48 | 0.2% | 99.9% |  |
-| 49 | 0.2% | 99.7% | Last Result |
-| 50 | 0.1% | 99.5% |  |
-| 51 | 0.3% | 99.5% |  |
-| 52 | 0.6% | 99.2% |  |
-| 53 | 0.9% | 98.6% |  |
-| 54 | 0.7% | 98% |  |
-| 55 | 4% | 97% |  |
-| 56 | 23% | 93% |  |
-| 57 | 2% | 70% |  |
-| 58 | 1.3% | 67% |  |
-| 59 | 3% | 66% |  |
-| 60 | 2% | 63% |  |
-| 61 | 2% | 61% |  |
-| 62 | 3% | 59% |  |
-| 63 | 4% | 56% |  |
-| 64 | 1.3% | 52% |  |
-| 65 | 9% | 50% | Median |
-| 66 | 2% | 42% |  |
-| 67 | 2% | 40% |  |
-| 68 | 5% | 37% |  |
-| 69 | 3% | 32% |  |
-| 70 | 3% | 29% |  |
-| 71 | 8% | 26% |  |
-| 72 | 4% | 17% |  |
-| 73 | 2% | 14% |  |
-| 74 | 2% | 12% |  |
-| 75 | 4% | 10% |  |
-| 76 | 0.6% | 6% |  |
-| 77 | 5% | 6% |  |
-| 78 | 0.3% | 0.3% |  |
-| 79 | 0% | 0% |  |
+| 41 | 0.2% | 100% |  |
+| 42 | 0.1% | 99.8% |  |
+| 43 | 0% | 99.7% |  |
+| 44 | 0.1% | 99.7% |  |
+| 45 | 0.1% | 99.7% |  |
+| 46 | 0.3% | 99.6% |  |
+| 47 | 0.1% | 99.2% |  |
+| 48 | 1.2% | 99.2% |  |
+| 49 | 1.4% | 98% | Last Result |
+| 50 | 16% | 97% |  |
+| 51 | 2% | 81% |  |
+| 52 | 0.5% | 79% |  |
+| 53 | 16% | 79% |  |
+| 54 | 0.9% | 62% |  |
+| 55 | 0.9% | 61% |  |
+| 56 | 3% | 60% |  |
+| 57 | 3% | 57% |  |
+| 58 | 5% | 55% | Median |
+| 59 | 9% | 49% |  |
+| 60 | 2% | 40% |  |
+| 61 | 9% | 38% |  |
+| 62 | 2% | 29% |  |
+| 63 | 10% | 27% |  |
+| 64 | 3% | 17% |  |
+| 65 | 5% | 15% |  |
+| 66 | 5% | 10% |  |
+| 67 | 3% | 5% |  |
+| 68 | 0.4% | 2% |  |
+| 69 | 1.0% | 1.3% |  |
+| 70 | 0.3% | 0.3% |  |
+| 71 | 0% | 0% |  |
 
 
