@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Dáil Éireann</title>
     <link>https://filipvanlaenen.github.io/irish_polls</link>
     <description>All Registered Polls for the Dáil Éireann</description>
-    <pubDate>Sun, 19 Jan 2020 09:53:09 +0100</pubDate>
+    <pubDate>Sun, 19 Jan 2020 10:21:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes, 4–14 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes.png"
         length="220774"
         type="image/png"/>
-      <pubDate>Sun, 19 Jan 2020 09:53:09 +0100</pubDate>
-      <dc:date>2020-01-19T09:53:09.842984+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2020 10:04:11 +0100</pubDate>
+      <dc:date>2020-01-19T10:04:11.071443+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 26 December 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-12-26-IrelandThinks.png"
         length="204209"
         type="image/png"/>
-      <pubDate>Sun, 19 Jan 2020 09:45:16 +0100</pubDate>
-      <dc:date>2020-01-19T09:45:16.481677+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2020 10:14:37 +0100</pubDate>
+      <dc:date>2020-01-19T10:14:37.191724+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 December 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-11-21-RedC.png"
         length="209508"
         type="image/png"/>
-      <pubDate>Sun, 19 Jan 2020 09:21:10 +0100</pubDate>
-      <dc:date>2020-01-19T09:21:10.590979+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2020 10:21:53 +0100</pubDate>
+      <dc:date>2020-01-19T10:21:53.633174+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 11–13 October 2019 – Voting Intentions</title>
@@ -59,6 +59,6 @@
       <pubDate>Sun, 19 Jan 2020 09:35:42 +0100</pubDate>
       <dc:date>2020-01-19T09:35:42.460523+01:00</dc:date>
     </item>
-    <dc:date>2020-01-19T09:53:09.842984+01:00</dc:date>
+    <dc:date>2020-01-19T10:21:53.633174+01:00</dc:date>
   </channel>
 </rss>
