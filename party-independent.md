@@ -10,8 +10,8 @@ Last result: **15.9%** (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 9.3–13.4% | 8.9–13.8% | 8.5–14.2% | 7.9–14.9% |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 9.2% | 8.6–11.1% | 8.3–11.5% | 8.0–11.9% | 7.5–12.6% |
+| N/A | [Poll Average](average.html) | 11.9% | 8.8–13.4% | 8.3–13.8% | 8.0–14.2% | 7.4–14.9% |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 9.2% | 8.1–10.6% | 7.8–11.0% | 7.5–11.3% | 7.0–11.9% |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 11.9% | 11.4–13.5% | 11.1–13.9% | 10.9–14.1% | 10.4–14.7% |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.7% | 6.2–8.4% | 5.9–8.7% | 5.7–9.0% | 5.2–9.6% |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 11.8% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
@@ -73,13 +73,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 3% | 99.8% |  |
-| 8.5–9.5% | 10% | 97% |  |
-| 9.5–10.5% | 14% | 87% |  |
-| 10.5–11.5% | 16% | 73% |  |
-| 11.5–12.5% | 27% | 57% | Median |
-| 12.5–13.5% | 23% | 31% |  |
+| 6.5–7.5% | 0.8% | 100% |  |
+| 7.5–8.5% | 6% | 99.2% |  |
+| 8.5–9.5% | 13% | 93% |  |
+| 9.5–10.5% | 11% | 80% |  |
+| 10.5–11.5% | 13% | 69% |  |
+| 11.5–12.5% | 26% | 56% | Median |
+| 12.5–13.5% | 22% | 31% |  |
 | 13.5–14.5% | 7% | 8% |  |
 | 14.5–15.5% | 1.0% | 1.1% |  |
 | 15.5–16.5% | 0.1% | 0.1% | Last Result |
@@ -94,8 +94,8 @@ Last result: **19** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 7–16 | 5–16 | 5–16 | 3–16 |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 8 | 5–10 | 4–11 | 4–11 | 3–15 |
+| N/A | [Poll Average](average.html) | 11 | 6–16 | 5–16 | 4–16 | 3–16 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 8 | 4–9 | 4–11 | 3–13 | 3–14 |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 13 | 9–16 | 9–16 | 8–16 | 8–16 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 2–4 | 2–5 | 1–6 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 14 | 10–16 | 8–16 | 8–16 | 7–16 |
@@ -158,20 +158,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 2% | 99.5% |  |
-| 5 | 4% | 98% |  |
-| 6 | 2% | 93% |  |
-| 7 | 7% | 91% |  |
-| 8 | 13% | 84% |  |
-| 9 | 5% | 71% |  |
-| 10 | 9% | 65% |  |
+| 3 | 1.3% | 100% |  |
+| 4 | 3% | 98.7% |  |
+| 5 | 4% | 96% |  |
+| 6 | 6% | 92% |  |
+| 7 | 3% | 86% |  |
+| 8 | 16% | 83% |  |
+| 9 | 5% | 68% |  |
+| 10 | 7% | 63% |  |
 | 11 | 14% | 56% | Median |
-| 12 | 2% | 42% |  |
-| 13 | 3% | 39% |  |
+| 12 | 3% | 43% |  |
+| 13 | 4% | 40% |  |
 | 14 | 4% | 36% |  |
 | 15 | 10% | 32% |  |
-| 16 | 21% | 22% |  |
+| 16 | 21% | 21% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% | Last Result |

@@ -101,7 +101,7 @@ Last result: **23** seats (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30 | 15–42 | 14–42 | 13–42 | 11–43 |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 41 | 35–42 | 35–42 | 35–43 | 33–43 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 40 | 38–42 | 36–42 | 35–43 | 33–43 |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 30 | 24–31 | 24–31 | 23–31 | 22–34 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 39 | 34–41 | 33–41 | 33–42 | 32–43 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 16 | 13–21 | 13–22 | 12–23 | 9–26 |
@@ -189,18 +189,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 9% | 57% | Median |
 | 31 | 14% | 48% |  |
 | 32 | 0.2% | 34% |  |
-| 33 | 0.7% | 34% |  |
+| 33 | 0.4% | 34% |  |
 | 34 | 0.4% | 33% |  |
-| 35 | 3% | 33% |  |
-| 36 | 1.2% | 30% |  |
-| 37 | 1.0% | 28% |  |
-| 38 | 6% | 27% |  |
-| 39 | 2% | 21% |  |
-| 40 | 2% | 19% |  |
-| 41 | 7% | 18% |  |
-| 42 | 10% | 11% |  |
-| 43 | 1.0% | 1.1% |  |
-| 44 | 0% | 0.1% |  |
+| 35 | 0.8% | 33% |  |
+| 36 | 0.7% | 32% |  |
+| 37 | 1.3% | 31% |  |
+| 38 | 3% | 30% |  |
+| 39 | 1.4% | 27% |  |
+| 40 | 9% | 26% |  |
+| 41 | 2% | 17% |  |
+| 42 | 13% | 14% |  |
+| 43 | 1.5% | 2% |  |
+| 44 | 0.1% | 0.2% |  |
 | 45 | 0% | 0.1% |  |
 | 46 | 0% | 0% |  |
 
