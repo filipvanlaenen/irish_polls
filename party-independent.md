@@ -10,11 +10,11 @@ Last result: **15.9%** (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 8.8–13.4% | 8.3–13.8% | 8.0–14.2% | 7.4–14.9% |
+| N/A | [Poll Average](average.html) | 11.3% | 8.8–12.8% | 8.3–13.2% | 8.0–13.6% | 7.4–14.3% |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 9.2% | 8.1–10.6% | 7.8–11.0% | 7.5–11.3% | 7.0–11.9% |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 11.9% | 11.4–13.5% | 11.1–13.9% | 10.9–14.1% | 10.4–14.7% |
+| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 11.9% | 10.9–13.0% | 10.6–13.3% | 10.3–13.5% | 9.9–14.1% |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.7% | 6.2–8.4% | 5.9–8.7% | 5.7–9.0% | 5.2–9.6% |
-| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 11.8% | 11.1–13.8% | 10.8–14.2% | 10.5–14.6% | 9.9–15.3% |
+| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 9.3% | N/A | N/A | N/A | N/A |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 12.7% | N/A | N/A | N/A | N/A |
 | [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8.4% | N/A | N/A | N/A | N/A |
@@ -76,14 +76,13 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0.8% | 100% |  |
 | 7.5–8.5% | 6% | 99.2% |  |
 | 8.5–9.5% | 13% | 93% |  |
-| 9.5–10.5% | 11% | 80% |  |
-| 10.5–11.5% | 13% | 69% |  |
-| 11.5–12.5% | 26% | 56% | Median |
-| 12.5–13.5% | 22% | 31% |  |
-| 13.5–14.5% | 7% | 8% |  |
-| 14.5–15.5% | 1.0% | 1.1% |  |
-| 15.5–16.5% | 0.1% | 0.1% | Last Result |
-| 16.5–17.5% | 0% | 0% |  |
+| 9.5–10.5% | 14% | 80% |  |
+| 10.5–11.5% | 23% | 66% | Median |
+| 11.5–12.5% | 27% | 43% |  |
+| 12.5–13.5% | 13% | 16% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.2% | 0.2% |  |
+| 15.5–16.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -94,11 +93,11 @@ Last result: **19** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 6–16 | 5–16 | 4–16 | 3–16 |
+| N/A | [Poll Average](average.html) | 10 | 6–16 | 5–16 | 4–16 | 3–16 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes | 8 | 4–9 | 4–11 | 3–13 | 3–14 |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 13 | 9–16 | 9–16 | 8–16 | 8–16 |
+| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 12 | 7–16 | 7–16 | 6–16 | 5–16 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 3 | 2–4 | 2–5 | 1–6 |
-| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 14 | 10–16 | 8–16 | 8–16 | 7–16 |
+| [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 12 | 8–16 | 8–16 | 7–16 | 5–16 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [3–15 October 2019](2019-10-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
@@ -160,19 +159,19 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 1.3% | 100% |  |
 | 4 | 3% | 98.7% |  |
-| 5 | 4% | 96% |  |
-| 6 | 6% | 92% |  |
-| 7 | 3% | 86% |  |
-| 8 | 16% | 83% |  |
-| 9 | 5% | 68% |  |
-| 10 | 7% | 63% |  |
-| 11 | 14% | 56% | Median |
-| 12 | 3% | 43% |  |
-| 13 | 4% | 40% |  |
-| 14 | 4% | 36% |  |
-| 15 | 10% | 32% |  |
-| 16 | 21% | 21% |  |
-| 17 | 0.1% | 0.1% |  |
+| 5 | 5% | 96% |  |
+| 6 | 7% | 91% |  |
+| 7 | 7% | 84% |  |
+| 8 | 17% | 77% |  |
+| 9 | 9% | 60% |  |
+| 10 | 6% | 51% | Median |
+| 11 | 6% | 45% |  |
+| 12 | 7% | 39% |  |
+| 13 | 11% | 32% |  |
+| 14 | 5% | 21% |  |
+| 15 | 4% | 16% |  |
+| 16 | 11% | 11% |  |
+| 17 | 0% | 0% |  |
 | 18 | 0% | 0% |  |
 | 19 | 0% | 0% | Last Result |
 
