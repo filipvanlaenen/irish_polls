@@ -8,9 +8,39 @@
     <title>All Registered Polls for the Dáil Éireann</title>
     <link>https://filipvanlaenen.github.io/irish_polls</link>
     <description>All Registered Polls for the Dáil Éireann</description>
-    <pubDate>Sun, 19 Jan 2020 14:29:05 +0100</pubDate>
+    <pubDate>Tue, 21 Jan 2020 20:20:41 +0100</pubDate>
     <item>
-      <title>Opinion Poll by Behaviour and Attitudes, 4–14 January 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 16–18 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2020-01-18-IpsosMRBI.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 36–48 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil: 42–52 seats&lt;/li&gt;&lt;li&gt;Sinn Féin: 36–44 seats&lt;/li&gt;&lt;li&gt;Labour Party: 1–6 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0–4 seats&lt;/li&gt;&lt;li&gt;Social Democrats: 3 seats&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 7–13 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0–4 seats&lt;/li&gt;&lt;li&gt;Independent: 6–16 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-18-IpsosMRBI-seats.png"
+        length="217367"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 19:40:39 +0100</pubDate>
+      <dc:date>2020-01-21T19:40:39.466493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 16–18 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2020-01-18-IpsosMRBI.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-18-IpsosMRBI-coalitions-seats.png"
+        length="287106"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 19:40:39 +0100</pubDate>
+      <dc:date>2020-01-21T19:40:39.466493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 16–18 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2020-01-18-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 20.7–25.5%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.6–27.5%&lt;/li&gt;&lt;li&gt;Sinn Féin: 18.8–23.4%&lt;/li&gt;&lt;li&gt;Labour Party: 3.9–6.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 6.6–9.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.9–2.3%&lt;/li&gt;&lt;li&gt;Independent: 9.3–12.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-18-IpsosMRBI.png"
+        length="217693"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 19:40:39 +0100</pubDate>
+      <dc:date>2020-01-21T19:40:39.466493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–14 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 31–45 seats&lt;/li&gt;&lt;li&gt;Fianna Fáil: 57–62 seats&lt;/li&gt;&lt;li&gt;Sinn Féin: 35–43 seats&lt;/li&gt;&lt;li&gt;Labour Party: 0–5 seats&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0–6 seats&lt;/li&gt;&lt;li&gt;Social Democrats: 0–3 seats&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 6–13 seats&lt;/li&gt;&lt;li&gt;Renua Ireland: 0–1 seats&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0–4 seats&lt;/li&gt;&lt;li&gt;Independent: 3–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes-seats.png"
@@ -20,7 +50,7 @@
       <dc:date>2020-01-19T11:43:47.203937+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Behaviour and Attitudes, 4–14 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–14 January 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes-coalitions-seats.png"
@@ -30,7 +60,7 @@
       <dc:date>2020-01-19T11:43:47.203937+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Behaviour and Attitudes, 4–14 January 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–14 January 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 17.5–22.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 29.1–35.1%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.6–21.7%&lt;/li&gt;&lt;li&gt;Labour Party: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 5.5–8.8%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Independent: 7.5–11.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2020-01-14-BehaviourandAttitudes.png"
@@ -110,6 +140,36 @@
       <dc:date>2020-01-19T14:29:05.884888+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 1–12 November 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-11-12-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 24.2–29.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.2–27.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 14.7–19.6%&lt;/li&gt;&lt;li&gt;Labour Party: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Independent: 7.6–11.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-11-12-BehaviourandAttitudes.png"
+        length="231783"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 06:53:52 +0100</pubDate>
+      <dc:date>2020-01-20T06:53:52.970415+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-10-24-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.2–35.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 9.2–13.1%&lt;/li&gt;&lt;li&gt;Labour Party: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Independent: 10.8–14.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-10-24-RedC.png"
+        length="205446"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 06:49:55 +0100</pubDate>
+      <dc:date>2020-01-21T06:49:55.671942+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-10-15-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.1–32.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 25.2–31.0%&lt;/li&gt;&lt;li&gt;Sinn Féin: 13.7–18.5%&lt;/li&gt;&lt;li&gt;Labour Party: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 4.6–7.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.8–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-10-15-BehaviourandAttitudes.png"
+        length="216819"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 17:15:05 +0100</pubDate>
+      <dc:date>2020-01-20T17:15:05.333129+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 11–13 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/irish_polls/2019-10-13-IpsosMRBI.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.8–32.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.9–27.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.3–16.3%&lt;/li&gt;&lt;li&gt;Labour Party: 4.9–7.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 6.7–9.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.0–2.5%&lt;/li&gt;&lt;li&gt;Independent: 10.8–14.6%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -119,6 +179,466 @@
       <pubDate>Sun, 19 Jan 2020 09:35:42 +0100</pubDate>
       <dc:date>2020-01-19T09:35:42.460523+01:00</dc:date>
     </item>
-    <dc:date>2020-01-19T14:29:05.884888+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-09-17-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 23.2–29.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 26.1–32.1%&lt;/li&gt;&lt;li&gt;Sinn Féin: 17.5–22.7%&lt;/li&gt;&lt;li&gt;Labour Party: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.8–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-09-17-BehaviourandAttitudes.png"
+        length="225018"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 17:23:15 +0100</pubDate>
+      <dc:date>2020-01-20T17:23:15.203868+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 5–12 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-09-12-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.2–31.8%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 25.2–30.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 10.1–14.2%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 5.6–8.8%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Independent: 9.2–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-09-12-RedC.png"
+        length="222687"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 17:33:01 +0100</pubDate>
+      <dc:date>2020-01-20T17:33:01.687815+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–16 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-07-16-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 23.8–29.5%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 27.7–33.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.1–16.7%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 5.7–9.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.4–1.7%&lt;/li&gt;&lt;li&gt;Independent: 5.4–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-07-16-BehaviourandAttitudes.png"
+        length="224569"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 17:41:28 +0100</pubDate>
+      <dc:date>2020-01-20T17:41:28.933557+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 31 May–11 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-06-11-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 20.6–26.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 25.5–31.4%&lt;/li&gt;&lt;li&gt;Sinn Féin: 10.1–14.4%&lt;/li&gt;&lt;li&gt;Labour Party: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 9.2–13.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.5%&lt;/li&gt;&lt;li&gt;Independent: 9.2–13.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-06-11-BehaviourandAttitudes.png"
+        length="232439"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 17:48:51 +0100</pubDate>
+      <dc:date>2020-01-20T17:48:51.653977+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 1–22 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-05-22-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 25.8–30.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.9–27.2%&lt;/li&gt;&lt;li&gt;Sinn Féin: 14.3–17.9%&lt;/li&gt;&lt;li&gt;Labour Party: 4.9–7.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.4–2.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 2.3–4.0%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 5.8–8.4%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.0–0.2%&lt;/li&gt;&lt;li&gt;Independent: 0.0–0.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-05-22-IrelandThinks.png"
+        length="193285"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 17:57:42 +0100</pubDate>
+      <dc:date>2020-01-20T17:57:42.546398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 6–16 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-05-16-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.1–30.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.2–25.9%&lt;/li&gt;&lt;li&gt;Sinn Féin: 11.6–14.6%&lt;/li&gt;&lt;li&gt;Labour Party: 4.1–6.1%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.5–2.7%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 6.0–8.2%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.6–1.5%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.2–2.4%&lt;/li&gt;&lt;li&gt;Independent: 12.1–15.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-05-16-RedC.png"
+        length="210447"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 18:09:47 +0100</pubDate>
+      <dc:date>2020-01-20T18:09:47.734715+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 2–14 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-05-14-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 25.2–31.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 25.2–31.0%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.6–21.6%&lt;/li&gt;&lt;li&gt;Labour Party: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independent: 6.1–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-05-14-BehaviourandAttitudes.png"
+        length="216292"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 18:19:02 +0100</pubDate>
+      <dc:date>2020-01-20T18:19:02.559826+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 6–8 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-05-08-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.6–31.2%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.6–28.1%&lt;/li&gt;&lt;li&gt;Sinn Féin: 14.1–17.8%&lt;/li&gt;&lt;li&gt;Labour Party: 5.7–8.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 3.1–5.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.3–2.7%&lt;/li&gt;&lt;li&gt;Independent: 13.3–17.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-05-08-IpsosMRBI.png"
+        length="210987"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 18:30:20 +0100</pubDate>
+      <dc:date>2020-01-20T18:30:20.515172+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-04-17-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 30.1–35.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 20.4–25.6%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.1–2.8%&lt;/li&gt;&lt;li&gt;Independent: 12.3–16.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-04-17-RedC.png"
+        length="215218"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 18:40:57 +0100</pubDate>
+      <dc:date>2020-01-20T18:40:57.375146+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–16 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-04-16-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 25.4–31.2%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 26.4–32.3%&lt;/li&gt;&lt;li&gt;Sinn Féin: 18.6–23.9%&lt;/li&gt;&lt;li&gt;Labour Party: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.8–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-04-16-BehaviourandAttitudes.png"
+        length="221207"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 18:50:48 +0100</pubDate>
+      <dc:date>2020-01-20T18:50:48.361753+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 21–28 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-03-28-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.1–33.8%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.3–27.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 11.1–15.2%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Independent: 10.7–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-03-28-RedC.png"
+        length="218231"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:01:02 +0100</pubDate>
+      <dc:date>2020-01-20T19:01:02.698876+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 28 February–12 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-03-12-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.6–34.6%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.7–28.3%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.8–21.9%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.7–2.2%&lt;/li&gt;&lt;li&gt;Independent: 8.5–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-03-12-BehaviourandAttitudes.png"
+        length="218781"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:11:59 +0100</pubDate>
+      <dc:date>2020-01-20T19:11:59.780972+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 4–5 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-03-05-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 27.5–32.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.7–26.5%&lt;/li&gt;&lt;li&gt;Sinn Féin: 18.8–23.4%&lt;/li&gt;&lt;li&gt;Labour Party: 4.8–7.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.9–2.3%&lt;/li&gt;&lt;li&gt;Independent: 9.3–12.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-03-05-IpsosMRBI.png"
+        length="203655"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:22:18 +0100</pubDate>
+      <dc:date>2020-01-20T19:22:18.183169+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 14–20 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-02-20-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.1–33.8%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Sinn Féin: 15.7–20.5%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Independent: 10.7–14.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-02-20-RedC.png"
+        length="216737"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:31:11 +0100</pubDate>
+      <dc:date>2020-01-20T19:31:11.521952+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 31 January–12 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-02-12-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.8–32.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.0–28.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 15.5–20.4%&lt;/li&gt;&lt;li&gt;Labour Party: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.4%&lt;/li&gt;&lt;li&gt;Independent: 9.8–14.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-02-12-BehaviourandAttitudes.png"
+        length="225038"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:40:22 +0100</pubDate>
+      <dc:date>2020-01-20T19:40:22.616939+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 17–24 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-01-24-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.4–35.2%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 19.7–24.9%&lt;/li&gt;&lt;li&gt;Sinn Féin: 11.1–15.3%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.9–2.5%&lt;/li&gt;&lt;li&gt;Independent: 10.0–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-01-24-RedC.png"
+        length="216317"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:50:39 +0100</pubDate>
+      <dc:date>2020-01-20T19:50:39.523081+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–15 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2019-01-15-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 27.1–33.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.3–29.0%&lt;/li&gt;&lt;li&gt;Sinn Féin: 17.5–22.7%&lt;/li&gt;&lt;li&gt;Labour Party: 2.9–5.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.4%&lt;/li&gt;&lt;li&gt;Independent: 9.1–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-01-15-BehaviourandAttitudes.png"
+        length="212450"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 19:59:54 +0100</pubDate>
+      <dc:date>2020-01-20T19:59:54.727146+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 14–21 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-12-21-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.1–33.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 20.6–24.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 14.0–17.6%&lt;/li&gt;&lt;li&gt;Labour Party: 5.7–8.2%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Social Democrats: 2.2–3.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 3.1–5.0%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.9–2.1%&lt;/li&gt;&lt;li&gt;Independent: 9.3–12.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-12-21-IrelandThinks.png"
+        length="201350"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 20:10:57 +0100</pubDate>
+      <dc:date>2020-01-20T20:10:57.981689+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 6–18 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-12-18-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 27.8–33.8%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 25.9–31.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 14.5–19.4%&lt;/li&gt;&lt;li&gt;Labour Party: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.0–4.3%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.7–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-12-18-BehaviourandAttitudes.png"
+        length="212753"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 20:23:14 +0100</pubDate>
+      <dc:date>2020-01-20T20:23:14.802201+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Millward Brown for The Sunday Independent, 1–13 December 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-12-13-MillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.3–35.4%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 24.5–30.3%&lt;/li&gt;&lt;li&gt;Sinn Féin: 18.7–24.0%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.3–1.4%&lt;/li&gt;&lt;li&gt;Independent: 3.9–6.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-12-13-MillwardBrown.png"
+        length="206168"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 20:34:42 +0100</pubDate>
+      <dc:date>2020-01-20T20:34:42.921358+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 15–22 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-11-22-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 30.9–36.8%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 24.2–29.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 11.0–15.1%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.8–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-11-22-RedC.png"
+        length="212262"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 20:48:18 +0100</pubDate>
+      <dc:date>2020-01-20T20:48:18.367935+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 1–13 November 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-11-13-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 27.1–33.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 24.2–29.9%&lt;/li&gt;&lt;li&gt;Sinn Féin: 20.3–25.8%&lt;/li&gt;&lt;li&gt;Labour Party: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independent: 6.1–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-11-13-BehaviourandAttitudes.png"
+        length="212519"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 21:00:36 +0100</pubDate>
+      <dc:date>2020-01-20T21:00:36.036944+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for RTÉ, 26 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-10-26-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 33.3–36.5%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 20.6–23.4%&lt;/li&gt;&lt;li&gt;Sinn Féin: 13.8–16.2%&lt;/li&gt;&lt;li&gt;Labour Party: 6.2–7.9%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.6–2.5%&lt;/li&gt;&lt;li&gt;Social Democrats: 2.5–3.6%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 3.4–4.7%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.5%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.9–1.6%&lt;/li&gt;&lt;li&gt;Independent: 8.3–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-10-26-RedC.png"
+        length="188835"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 21:24:36 +0100</pubDate>
+      <dc:date>2020-01-20T21:24:36.889388+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 11–17 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-10-17-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 30.1–35.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.3–27.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.9–17.4%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Independent: 8.4–12.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-10-17-RedC.png"
+        length="203720"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 21:37:30 +0100</pubDate>
+      <dc:date>2020-01-20T21:37:30.587239+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–16 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-10-16-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.6–34.6%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 24.6–30.4%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.8–21.9%&lt;/li&gt;&lt;li&gt;Labour Party: 4.8–7.9%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independent: 6.2–9.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-10-16-BehaviourandAttitudes.png"
+        length="219340"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 22:44:44 +0100</pubDate>
+      <dc:date>2020-01-20T22:44:44.780469+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 10–12 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-10-12-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 30.7–36.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.9–27.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 21.9–26.8%&lt;/li&gt;&lt;li&gt;Labour Party: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.2–4.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.3–1.3%&lt;/li&gt;&lt;li&gt;Independent: 4.0–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-10-12-IpsosMRBI.png"
+        length="198774"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 22:52:22 +0100</pubDate>
+      <dc:date>2020-01-20T22:52:22.428407+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for Paddy Power, 3–10 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-10-10-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.1–34.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 24.2–29.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Independent: 9.2–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-10-10-RedC.png"
+        length="215224"
+        type="image/png"/>
+      <pubDate>Mon, 20 Jan 2020 23:02:55 +0100</pubDate>
+      <dc:date>2020-01-20T23:02:55.612968+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 6–18 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-09-18-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.9–34.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.2–27.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 17.5–22.6%&lt;/li&gt;&lt;li&gt;Labour Party: 3.8–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.4–1.7%&lt;/li&gt;&lt;li&gt;Independent: 5.3–8.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-09-18-BehaviourandAttitudes.png"
+        length="217355"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 20:20:41 +0100</pubDate>
+      <dc:date>2020-01-21T20:20:41.016647+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 6–13 September 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-09-13-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 30.4–36.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 19.7–24.9%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.1–16.4%&lt;/li&gt;&lt;li&gt;Labour Party: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Independent: 9.3–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-09-13-RedC.png"
+        length="216831"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 20:12:46 +0100</pubDate>
+      <dc:date>2020-01-21T20:12:46.040724+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ireland Thinks for The Irish Daily Mail, 15–24 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-08-24-IrelandThinks.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 26.2–32.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.4–26.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.6–21.6%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.8%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 1.1–2.9%&lt;/li&gt;&lt;li&gt;Independent: 12.2–16.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-08-24-IrelandThinks.png"
+        length="214369"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 15:36:23 +0100</pubDate>
+      <dc:date>2020-01-21T15:36:23.195283+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 July 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-07-17-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 31.6–37.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 18.9–24.1%&lt;/li&gt;&lt;li&gt;Sinn Féin: 19.8–25.1%&lt;/li&gt;&lt;li&gt;Labour Party: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 7.0–10.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-07-17-BehaviourandAttitudes.png"
+        length="212355"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 15:46:07 +0100</pubDate>
+      <dc:date>2020-01-21T15:46:07.185592+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 12 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-06-12-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.0–34.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.3–26.8%&lt;/li&gt;&lt;li&gt;Sinn Féin: 21.3–26.8%&lt;/li&gt;&lt;li&gt;Labour Party: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independent: 6.1–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-06-12-BehaviourandAttitudes.png"
+        length="219323"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 15:55:43 +0100</pubDate>
+      <dc:date>2020-01-21T15:55:43.181897+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 10–16 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-05-16-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 31.0–36.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.3–27.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independent: 6.1–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-05-16-RedC.png"
+        length="212116"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 16:06:01 +0100</pubDate>
+      <dc:date>2020-01-21T16:06:01.70648+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 3–15 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-05-15-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 27.4–33.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 20.6–26.0%&lt;/li&gt;&lt;li&gt;Sinn Féin: 21.6–27.1%&lt;/li&gt;&lt;li&gt;Labour Party: 3.0–5.5%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.2%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.9–10.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-05-15-BehaviourandAttitudes.png"
+        length="210574"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 16:15:38 +0100</pubDate>
+      <dc:date>2020-01-21T16:15:38.791313+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Millward Brown for The Sunday Independent, 19–30 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-04-30-MillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 31.4–37.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 24.6–30.2%&lt;/li&gt;&lt;li&gt;Sinn Féin: 19.8–24.9%&lt;/li&gt;&lt;li&gt;Labour Party: 3.9–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.1–0.7%&lt;/li&gt;&lt;li&gt;Independent: 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-04-30-MillwardBrown.png"
+        length="183384"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 16:25:06 +0100</pubDate>
+      <dc:date>2020-01-21T16:25:06.73409+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 26 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-04-26-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.5–35.3%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.7–28.1%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.1–16.4%&lt;/li&gt;&lt;li&gt;Labour Party: 4.8–7.8%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.3%&lt;/li&gt;&lt;li&gt;Independent: 9.3–13.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-04-26-RedC.png"
+        length="221018"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 16:35:27 +0100</pubDate>
+      <dc:date>2020-01-21T16:35:27.019549+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 16–17 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-04-17-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.4–33.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.6–28.6%&lt;/li&gt;&lt;li&gt;Sinn Féin: 19.7–24.4%&lt;/li&gt;&lt;li&gt;Labour Party: 3.9–6.4%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.2–4.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.6%&lt;/li&gt;&lt;li&gt;Independent: 6.2–9.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-04-17-IpsosMRBI.png"
+        length="203394"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 16:46:08 +0100</pubDate>
+      <dc:date>2020-01-21T16:46:08.665484+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 5–17 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-04-17-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.4–35.4%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.8–27.3%&lt;/li&gt;&lt;li&gt;Sinn Féin: 18.1–23.3%&lt;/li&gt;&lt;li&gt;Labour Party: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.2–3.0%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.7–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-04-17-BehaviourandAttitudes.png"
+        length="220014"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 16:56:27 +0100</pubDate>
+      <dc:date>2020-01-21T16:56:27.83064+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 15–22 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-03-22-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 30.1–36.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 21.4–26.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 13.9–18.4%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.8–2.2%&lt;/li&gt;&lt;li&gt;Independent: 8.4–12.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-03-22-RedC.png"
+        length="217447"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 17:06:46 +0100</pubDate>
+      <dc:date>2020-01-21T17:06:46.691211+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 6–13 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-03-13-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 28.4–34.4%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.7–29.4%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.2–21.4%&lt;/li&gt;&lt;li&gt;Labour Party: 4.5–7.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independent: 6.7–10.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-03-13-BehaviourandAttitudes.png"
+        length="212284"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 17:16:06 +0100</pubDate>
+      <dc:date>2020-01-21T17:16:06.206407+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 15–22 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-02-22-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.2–35.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 26.3–31.9%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.0–16.3%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 6.9–10.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-02-22-RedC.png"
+        length="216111"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 17:26:28 +0100</pubDate>
+      <dc:date>2020-01-21T17:26:28.174471+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Millward Brown for The Sunday Independent, 6–14 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-02-14-MillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 31.0–37.0%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.7–29.3%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.5–21.5%&lt;/li&gt;&lt;li&gt;Labour Party: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.2–2.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.6–2.0%&lt;/li&gt;&lt;li&gt;Independent: 7.1–10.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-02-14-MillwardBrown.png"
+        length="200929"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 17:36:13 +0100</pubDate>
+      <dc:date>2020-01-21T17:36:13.611416+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 1–13 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-02-13-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 32.9–39.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.4–28.0%&lt;/li&gt;&lt;li&gt;Sinn Féin: 13.8–18.5%&lt;/li&gt;&lt;li&gt;Labour Party: 3.7–6.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independent: 6.0–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-02-13-BehaviourandAttitudes.png"
+        length="199006"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 20:16:40 +0100</pubDate>
+      <dc:date>2020-01-21T20:16:40.026161+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Red C for The Sunday Business Post, 15–25 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-01-25-RedC.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.1–34.9%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.3–28.7%&lt;/li&gt;&lt;li&gt;Sinn Féin: 12.9–17.3%&lt;/li&gt;&lt;li&gt;Labour Party: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 2.1–4.3%&lt;/li&gt;&lt;li&gt;Social Democrats: 1.3–3.1%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.9–5.4%&lt;/li&gt;&lt;li&gt;Renua Ireland: 0.1–0.9%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.8%&lt;/li&gt;&lt;li&gt;Independent: 6.1–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-01-25-RedC.png"
+        length="218708"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 19:48:52 +0100</pubDate>
+      <dc:date>2020-01-21T19:48:52.943373+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos MRBI for The Irish Times, 22–23 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-01-23-IpsosMRBI.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 31.4–36.7%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 22.6–27.5%&lt;/li&gt;&lt;li&gt;Sinn Féin: 16.9–21.3%&lt;/li&gt;&lt;li&gt;Labour Party: 3.0–5.3%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.3–3.0%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.6–1.8%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 2.2–4.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.7–2.0%&lt;/li&gt;&lt;li&gt;Independent: 7.8–11.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-01-23-IpsosMRBI.png"
+        length="197895"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 19:59:16 +0100</pubDate>
+      <dc:date>2020-01-21T19:59:16.518646+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Behaviour and Attitudes for The Sunday Times, 4–16 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/irish_polls/2018-01-16-BehaviourandAttitudes.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Fine Gael: 29.0–35.1%&lt;/li&gt;&lt;li&gt;Fianna Fáil: 23.2–28.9%&lt;/li&gt;&lt;li&gt;Sinn Féin: 15.7–20.7%&lt;/li&gt;&lt;li&gt;Labour Party: 4.6–7.7%&lt;/li&gt;&lt;li&gt;Solidarity–People Before Profit: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Social Democrats: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Green Party/Comhaontas Glas: 1.2–3.1%&lt;/li&gt;&lt;li&gt;Independents 4 Change: 0.5–1.9%&lt;/li&gt;&lt;li&gt;Independent: 6.1–9.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/irish_polls/2018-01-16-BehaviourandAttitudes.png"
+        length="208633"
+        type="image/png"/>
+      <pubDate>Tue, 21 Jan 2020 20:08:19 +0100</pubDate>
+      <dc:date>2020-01-21T20:08:19.084206+01:00</dc:date>
+    </item>
+    <dc:date>2020-01-21T20:20:41.016647+01:00</dc:date>
   </channel>
 </rss>
