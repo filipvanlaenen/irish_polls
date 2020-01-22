@@ -24,6 +24,7 @@ Last result: **25.5%** (General Election of 26 February 2016)
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.3–32.7% |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 26.5% | 24.7–28.5% | 24.2–29.1% | 23.8–29.5% | 22.9–30.5% |
 | [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 23.2% | 21.5–25.1% | 21.0–25.6% | 20.6–26.1% | 19.8–27.0% |
+| [24 May 2019](2019-05-24-RedC.html) | Red C <br> RTÉ | 26.0% | 24.9–27.1% | 24.6–27.4% | 24.4–27.7% | 23.8–28.2% |
 | [1–22 May 2019](2019-05-22-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 28.0% | 26.6–29.5% | 26.2–29.9% | 25.8–30.3% | 25.2–31.0% |
 | [6–16 May 2019](2019-05-16-RedC.html) | Red C <br> The Sunday Business Post | 28.0% | 26.7–29.3% | 26.4–29.7% | 26.1–30.0% | 25.5–30.7% |
 | [2–14 May 2019](2019-05-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.0% | 26.1–29.9% | 25.6–30.5% | 25.2–31.0% | 24.3–31.9% |
@@ -66,6 +67,53 @@ Last result: **25.5%** (General Election of 26 February 2016)
 | [15–25 January 2018](2018-01-25-RedC.html) | Red C <br> The Sunday Business Post | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [22–23 January 2018](2018-01-23-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 34.0% | 32.3–35.8% | 31.8–36.3% | 31.4–36.7% | 30.6–37.6% |
 | [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 32.0% | 30.0–34.0% | 29.5–34.6% | 29.0–35.1% | 28.1–36.0% |
+| [24 December 2017](2017-12-24-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 34.0% | 32.0–36.0% | 31.4–36.6% | 31.0–37.1% | 30.0–38.1% |
+| [22 December 2017](2017-12-22-IrelandThinks.html) | Ireland Thinks <br> Irish Daily Mail | 33.0% | 31.3–34.9% | 30.8–35.4% | 30.4–35.8% | 29.5–36.7% |
+| [7 December 2017](2017-12-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 36.0% | 34.2–37.8% | 33.8–38.3% | 33.3–38.8% | 32.5–39.6% |
+| [23 November 2017](2017-11-23-RedC.html) | Red C <br> The Sunday Business Post | 27.0% | 25.2–28.9% | 24.7–29.4% | 24.3–29.9% | 23.5–30.7% |
+| [7 November 2017](2017-11-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 34.3% | N/A | N/A | N/A | N/A |
+| [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post | 28.9% | N/A | N/A | N/A | N/A |
+| [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 30.9% | N/A | N/A | N/A | N/A |
+| [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 30.9% | N/A | N/A | N/A | N/A |
+| [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 30.0% | N/A | N/A | N/A | N/A |
+| [12 September 2017](2017-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 32.9% | N/A | N/A | N/A | N/A |
+| [21 July 2017](2017-07-21-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 29.7% | N/A | N/A | N/A | N/A |
+| [11 July 2017](2017-07-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.9% | N/A | N/A | N/A | N/A |
+| [5 July 2017](2017-07-05-RedC.html) | Red C <br> The Sunday Business Post | 27.0% | N/A | N/A | N/A | N/A |
+| [10 June 2017](2017-06-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.7% | N/A | N/A | N/A | N/A |
+| [25 May 2017](2017-05-25-RedC.html) | Red C <br> The Sunday Business Post | 29.0% | N/A | N/A | N/A | N/A |
+| [13 May 2017](2017-05-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.0% | N/A | N/A | N/A | N/A |
+| [28 April 2017](2017-04-28-RedC.html) | Red C <br> The Sunday Business Post | 24.0% | N/A | N/A | N/A | N/A |
+| [11 April 2017](2017-04-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 28.6% | N/A | N/A | N/A | N/A |
+| [24 March 2017](2017-03-24-RedC.html) | Red C <br> The Sunday Business Post | 23.9% | N/A | N/A | N/A | N/A |
+| [8 March 2017](2017-03-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 22.2% | N/A | N/A | N/A | N/A |
+| [28 February 2017](2017-02-28-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 28.0% | N/A | N/A | N/A | N/A |
+| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 24.0% | N/A | N/A | N/A | N/A |
+| [16 February 2017](2017-02-16-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 25.0% | N/A | N/A | N/A | N/A |
+| [8 February 2017](2017-02-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 20.9% | N/A | N/A | N/A | N/A |
+| [26 January 2017](2017-01-26-RedC.html) | Red C <br> The Sunday Business Post | 24.0% | N/A | N/A | N/A | N/A |
+| [21 January 2017](2017-01-21-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 22.7% | N/A | N/A | N/A | N/A |
+| [13 December 2016](2016-12-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 26.0% | N/A | N/A | N/A | N/A |
+| [6 December 2016](2016-12-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 27.0% | N/A | N/A | N/A | N/A |
+| [25 November 2016](2016-11-25-RedC.html) | Red C <br> The Sunday Business Post | 25.3% | N/A | N/A | N/A | N/A |
+| [9 November 2016](2016-11-09-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 28.1% | N/A | N/A | N/A | N/A |
+| [27 October 2016](2016-10-27-RedC.html) | Red C <br> The Sunday Business Post | 25.0% | N/A | N/A | N/A | N/A |
+| [20 October 2016](2016-10-20-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 29.0% | N/A | N/A | N/A | N/A |
+| [12 October 2016](2016-10-12-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 26.3% | N/A | N/A | N/A | N/A |
+| [4 October 2016](2016-10-04-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 26.2% | N/A | N/A | N/A | N/A |
+| [22 September 2016](2016-09-22-RedC.html) | Red C <br> The Sunday Business Post | 25.0% | N/A | N/A | N/A | N/A |
+| [14 September 2016](2016-09-14-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 23.2% | N/A | N/A | N/A | N/A |
+| [27 July 2016](2016-07-27-RedC.html) | Red C <br> Paddy Power | 27.2% | N/A | N/A | N/A | N/A |
+| [13 July 2016](2016-07-13-RedC.html) | Red C <br> The Sunday Business Post | 25.7% | N/A | N/A | N/A | N/A |
+| [13 July 2016](2016-07-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 25.0% | N/A | N/A | N/A | N/A |
+| [7 July 2016](2016-07-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 24.2% | N/A | N/A | N/A | N/A |
+| [29 June 2016](2016-06-29-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 30.0% | N/A | N/A | N/A | N/A |
+| [15 June 2016](2016-06-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 25.3% | N/A | N/A | N/A | N/A |
+| [26 May 2016](2016-05-26-RedC.html) | Red C <br> The Sunday Business Post | 26.2% | N/A | N/A | N/A | N/A |
+| [11 May 2016](2016-05-11-RedC.html) | Red C <br> Paddy Power | 27.0% | N/A | N/A | N/A | N/A |
+| [11 May 2016](2016-05-11-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 25.9% | N/A | N/A | N/A | N/A |
+| [13 April 2016](2016-04-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 23.0% | N/A | N/A | N/A | N/A |
+| [10 March 2016](2016-03-10-RedC.html) | Red C <br> The Sunday Business Post | 27.2% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -107,7 +155,7 @@ Last result: **49** seats (General Election of 26 February 2016)
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 42 | 38–46 | 37–47 | 36–48 | 35–49 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 34–43 | 32–45 | 31–45 | 29–46 |
 | [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 54 | 48–59 | 47–61 | 46–61 | 43–63 |
-| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 51 | 47–57 | 45–59 | 42–61 | 40–64 |
+| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 52 | 46–57 | 45–58 | 42–59 | 41–62 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 65 | 57–68 | 55–69 | 54–70 | 51–71 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 51 | 46–57 | 46–58 | 46–62 | 44–62 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 65 | 61–70 | 58–71 | 58–72 | 56–73 |
@@ -117,33 +165,34 @@ Last result: **49** seats (General Election of 26 February 2016)
 | [5–12 September 2019](2019-09-12-RedC.html) | Red C <br> The Sunday Business Post | 61 | 52–65 | 52–66 | 50–66 | 47–67 |
 | [4–16 July 2019](2019-07-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 54 | 48–59 | 48–60 | 47–60 | 45–63 |
 | [31 May–11 June 2019](2019-06-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 46 | 41–50 | 38–52 | 37–52 | 35–56 |
+| [24 May 2019](2019-05-24-RedC.html) | Red C <br> RTÉ | 54 | 50–54 | 47–54 | 47–56 | 46–57 |
 | [1–22 May 2019](2019-05-22-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 56 | 56–57 | 53–59 | 52–59 | 50–62 |
 | [6–16 May 2019](2019-05-16-RedC.html) | Red C <br> The Sunday Business Post | 53 | 51–58 | 50–59 | 50–61 | 48–64 |
 | [2–14 May 2019](2019-05-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 56 | 51–60 | 49–60 | 48–62 | 45–63 |
 | [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 55 | 52–56 | 51–56 | 50–60 | 47–64 |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 68 | 63–71 | 59–71 | 58–72 | 55–72 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 56 | 52–60 | 52–61 | 50–61 | 48–64 |
-| [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 66 | 55–68 | 55–68 | 55–70 | 53–70 |
+| [21–28 March 2019](2019-03-28-RedC.html) | Red C <br> The Sunday Business Post | 64 | 58–68 | 56–70 | 55–71 | 53–71 |
 | [28 February–12 March 2019](2019-03-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 67 | 61–67 | 59–67 | 56–68 | 51–68 |
 | [4–5 March 2019](2019-03-05-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 63 | 54–64 | 54–64 | 54–64 | 49–66 |
 | [14–20 February 2019](2019-02-20-RedC.html) | Red C <br> The Sunday Business Post | 63 | 54–64 | 52–66 | 52–67 | 52–68 |
 | [31 January–12 February 2019](2019-02-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 58 | 55–64 | 54–65 | 50–67 | 48–67 |
-| [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 69 | 64–70 | 63–71 | 60–71 | 56–72 |
-| [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 60 | 55–64 | 53–66 | 51–67 | 49–67 |
+| [17–24 January 2019](2019-01-24-RedC.html) | Red C <br> The Sunday Business Post | 67 | 63–70 | 62–71 | 62–71 | 57–71 |
+| [4–15 January 2019](2019-01-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 61 | 55–66 | 52–67 | 51–67 | 47–68 |
 | [14–21 December 2018](2018-12-21-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 62 | 59–64 | 57–66 | 55–67 | 53–68 |
 | [6–18 December 2018](2018-12-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 60 | 57–64 | 57–67 | 55–67 | 51–67 |
 | [1–13 December 2018](2018-12-13-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 61 | 58–63 | 58–63 | 57–66 | 56–67 |
 | [15–22 November 2018](2018-11-22-RedC.html) | Red C <br> The Sunday Business Post | 69 | 66–71 | 63–71 | 61–71 | 58–72 |
-| [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 58 | 53–61 | 53–63 | 51–63 | 48–65 |
+| [1–13 November 2018](2018-11-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 56 | 53–61 | 52–64 | 51–65 | 48–66 |
 | [26 October 2018](2018-10-26-RedC.html) | Red C <br> RTÉ | 69 | 68–70 | 68–71 | 67–71 | 65–71 |
 | [11–17 October 2018](2018-10-17-RedC.html) | Red C <br> The Sunday Business Post | 66 | 62–69 | 62–70 | 60–71 | 58–73 |
 | [5–16 October 2018](2018-10-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 60 | 54–63 | 54–65 | 54–67 | 54–67 |
 | [10–12 October 2018](2018-10-12-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 65 | 61–67 | 60–67 | 59–68 | 57–69 |
 | [3–10 October 2018](2018-10-10-RedC.html) | Red C <br> Paddy Power | 64 | 60–68 | 60–69 | 58–70 | 56–71 |
-| [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 66 | 59–68 | 58–69 | 56–69 | 53–69 |
-| [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 69 | 65–71 | 63–71 | 59–71 | 59–73 |
+| [6–18 September 2018](2018-09-18-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 66 | 61–68 | 59–68 | 57–69 | 54–69 |
+| [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 70 | 65–71 | 64–71 | 63–71 | 59–72 |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 55 | 51–59 | 50–59 | 49–61 | 45–63 |
-| [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 68 | 65–70 | 65–70 | 65–71 | 63–71 |
+| [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 68 | 65–70 | 65–71 | 64–71 | 63–71 |
 | [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 64 | 59–67 | 58–67 | 58–68 | 56–69 |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 67 | 63–69 | 63–69 | 61–69 | 59–71 |
 | [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 62 | 56–67 | 54–67 | 53–67 | 52–68 |
@@ -151,14 +200,61 @@ Last result: **49** seats (General Election of 26 February 2016)
 | [26 April 2018](2018-04-26-RedC.html) | Red C <br> The Sunday Business Post | 65 | 60–70 | 58–70 | 55–71 | 52–71 |
 | [16–17 April 2018](2018-04-17-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 59 | 57–65 | 54–66 | 54–67 | 53–67 |
 | [5–17 April 2018](2018-04-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 65 | 60–66 | 59–67 | 58–67 | 55–68 |
-| [15–22 March 2018](2018-03-22-RedC.html) | Red C <br> The Sunday Business Post | 65 | 64–68 | 63–69 | 60–70 | 59–71 |
-| [6–13 March 2018](2018-03-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 61 | 56–65 | 56–66 | 56–67 | 53–68 |
+| [15–22 March 2018](2018-03-22-RedC.html) | Red C <br> The Sunday Business Post | 66 | 61–68 | 60–69 | 60–70 | 58–71 |
+| [6–13 March 2018](2018-03-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 61 | 58–65 | 57–66 | 56–66 | 53–68 |
 | [15–22 February 2018](2018-02-22-RedC.html) | Red C <br> The Sunday Business Post | 63 | 60–66 | 59–68 | 59–70 | 56–70 |
 | [6–14 February 2018](2018-02-14-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 66 | 63–67 | 61–68 | 61–69 | 60–70 |
 | [1–13 February 2018](2018-02-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 67 | 66–70 | 66–70 | 65–71 | 62–72 |
 | [15–25 January 2018](2018-01-25-RedC.html) | Red C <br> The Sunday Business Post | 66 | 60–69 | 59–70 | 58–70 | 55–70 |
 | [22–23 January 2018](2018-01-23-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 67 | 64–68 | 63–68 | 62–68 | 61–70 |
-| [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 61 | 59–66 | 57–68 | 57–69 | 57–69 |
+| [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 63 | 59–66 | 59–67 | 58–68 | 55–69 |
+| [24 December 2017](2017-12-24-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 67 | 62–69 | 60–69 | 59–70 | 58–71 |
+| [22 December 2017](2017-12-22-IrelandThinks.html) | Ireland Thinks <br> Irish Daily Mail | 61 | 61–66 | 61–66 | 60–67 | 58–69 |
+| [7 December 2017](2017-12-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 67 | 65–71 | 64–72 | 64–72 | 62–72 |
+| [23 November 2017](2017-11-23-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [7 November 2017](2017-11-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
+| [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [12 September 2017](2017-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [21 July 2017](2017-07-21-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
+| [11 July 2017](2017-07-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [5 July 2017](2017-07-05-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [10 June 2017](2017-06-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [25 May 2017](2017-05-25-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [13 May 2017](2017-05-13-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [28 April 2017](2017-04-28-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [11 April 2017](2017-04-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [24 March 2017](2017-03-24-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [8 March 2017](2017-03-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [28 February 2017](2017-02-28-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
+| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [16 February 2017](2017-02-16-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
+| [8 February 2017](2017-02-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [26 January 2017](2017-01-26-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [21 January 2017](2017-01-21-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [13 December 2016](2016-12-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [6 December 2016](2016-12-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
+| [25 November 2016](2016-11-25-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [9 November 2016](2016-11-09-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [27 October 2016](2016-10-27-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [20 October 2016](2016-10-20-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
+| [12 October 2016](2016-10-12-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [4 October 2016](2016-10-04-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
+| [22 September 2016](2016-09-22-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [14 September 2016](2016-09-14-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [27 July 2016](2016-07-27-RedC.html) | Red C <br> Paddy Power |  |  |  |  |  |
+| [13 July 2016](2016-07-13-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [13 July 2016](2016-07-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [7 July 2016](2016-07-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
+| [29 June 2016](2016-06-29-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
+| [15 June 2016](2016-06-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [26 May 2016](2016-05-26-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
+| [11 May 2016](2016-05-11-RedC.html) | Red C <br> Paddy Power |  |  |  |  |  |
+| [11 May 2016](2016-05-11-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [13 April 2016](2016-04-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times |  |  |  |  |  |
+| [10 March 2016](2016-03-10-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 
 ### Probability Mass Function
 
