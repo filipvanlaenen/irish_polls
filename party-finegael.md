@@ -211,7 +211,7 @@ Last result: **49** seats (General Election of 26 February 2016)
 | [24 December 2017](2017-12-24-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 67 | 62–69 | 60–69 | 59–70 | 58–71 |
 | [22 December 2017](2017-12-22-IrelandThinks.html) | Ireland Thinks <br> Irish Daily Mail | 61 | 61–66 | 61–66 | 60–67 | 58–69 |
 | [7 December 2017](2017-12-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 67 | 65–71 | 64–72 | 64–72 | 62–72 |
-| [23 November 2017](2017-11-23-RedC.html) | Red C <br> The Sunday Business Post | 54 | 50–60 | 49–60 | 47–60 | 44–62 |
+| [23 November 2017](2017-11-23-RedC.html) | Red C <br> The Sunday Business Post | 55 | 50–58 | 49–60 | 47–62 | 45–64 |
 | [7 November 2017](2017-11-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 69 | 63–70 | 63–71 | 62–71 | 59–73 |
 | [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post | 58 | 54–63 | 54–65 | 51–66 | 46–68 |
 | [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 63 | 59–66 | 59–66 | 57–68 | 53–68 |
