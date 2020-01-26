@@ -151,8 +151,8 @@ Last result: **44** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 45–60 | 44–60 | 43–61 | 40–62 |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 50 | 46–57 | 45–58 | 43–58 | 40–59 |
+| N/A | [Poll Average](average.html) | 51 | 46–60 | 44–60 | 43–61 | 40–62 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 51 | 47–56 | 46–57 | 44–58 | 41–59 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 51 | 45–53 | 44–54 | 43–54 | 41–55 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 48 | 44–51 | 43–52 | 42–52 | 39–54 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 59 | 58–61 | 57–62 | 57–62 | 55–63 |
@@ -271,21 +271,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 0.3% | 99.6% |  |
 | 41 | 0.4% | 99.3% |  |
 | 42 | 0.7% | 98.9% |  |
-| 43 | 2% | 98% |  |
+| 43 | 1.5% | 98% |  |
 | 44 | 3% | 97% | Last Result |
-| 45 | 3% | 93% |  |
+| 45 | 3% | 94% |  |
 | 46 | 3% | 90% |  |
-| 47 | 7% | 86% |  |
-| 48 | 13% | 79% |  |
-| 49 | 7% | 66% |  |
-| 50 | 7% | 60% |  |
-| 51 | 10% | 53% | Median |
-| 52 | 6% | 43% |  |
-| 53 | 4% | 37% |  |
-| 54 | 2% | 33% |  |
-| 55 | 2% | 31% |  |
-| 56 | 2% | 30% |  |
-| 57 | 3% | 27% |  |
+| 47 | 7% | 87% |  |
+| 48 | 12% | 81% |  |
+| 49 | 7% | 69% |  |
+| 50 | 7% | 62% |  |
+| 51 | 12% | 55% | Median |
+| 52 | 7% | 43% |  |
+| 53 | 4% | 36% |  |
+| 54 | 2% | 31% |  |
+| 55 | 1.3% | 29% |  |
+| 56 | 2% | 28% |  |
+| 57 | 3% | 26% |  |
 | 58 | 4% | 24% |  |
 | 59 | 8% | 20% |  |
 | 60 | 7% | 12% |  |

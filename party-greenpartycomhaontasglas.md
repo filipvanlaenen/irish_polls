@@ -145,8 +145,8 @@ Last result: **2** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 7–16 | 7–17 | 7–17 | 5–21 |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 15 | 9–17 | 8–19 | 7–21 | 7–22 |
+| N/A | [Poll Average](average.html) | 9 | 7–15 | 7–17 | 7–17 | 5–21 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 14 | 9–17 | 7–18 | 7–20 | 7–23 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 9 | 8–11 | 7–12 | 7–13 | 6–15 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 8 | 7–12 | 7–12 | 7–13 | 7–15 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8 | 7–11 | 6–11 | 6–13 | 4–17 |
@@ -267,20 +267,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 2% | 99.4% |  |
 | 7 | 16% | 98% |  |
 | 8 | 24% | 82% |  |
-| 9 | 20% | 58% | Median |
-| 10 | 7% | 38% |  |
-| 11 | 5% | 31% |  |
-| 12 | 6% | 25% |  |
-| 13 | 4% | 20% |  |
-| 14 | 3% | 16% |  |
-| 15 | 2% | 13% |  |
-| 16 | 3% | 11% |  |
-| 17 | 5% | 8% |  |
-| 18 | 1.1% | 2% |  |
-| 19 | 0.5% | 1.3% |  |
-| 20 | 0.1% | 0.8% |  |
-| 21 | 0.4% | 0.7% |  |
-| 22 | 0.2% | 0.3% |  |
+| 9 | 22% | 58% | Median |
+| 10 | 7% | 36% |  |
+| 11 | 6% | 29% |  |
+| 12 | 6% | 23% |  |
+| 13 | 3% | 17% |  |
+| 14 | 3% | 14% |  |
+| 15 | 2% | 11% |  |
+| 16 | 3% | 9% |  |
+| 17 | 4% | 6% |  |
+| 18 | 1.2% | 2% |  |
+| 19 | 0.4% | 1.2% |  |
+| 20 | 0.2% | 0.8% |  |
+| 21 | 0.3% | 0.6% |  |
+| 22 | 0.1% | 0.3% |  |
 | 23 | 0% | 0.1% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |

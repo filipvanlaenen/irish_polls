@@ -143,8 +143,8 @@ Last result: **7** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–8 | 0–9 | 0–13 |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 6 | 2–9 | 1–11 | 1–12 | 1–16 |
+| N/A | [Poll Average](average.html) | 2 | 0–6 | 0–8 | 0–10 | 0–13 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 6 | 2–10 | 1–11 | 1–12 | 1–16 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–2 | 0–3 | 0–4 | 0–5 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2 | 1–5 | 1–6 | 1–6 | 0–7 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–4 | 0–5 | 0–5 | 0–7 |
@@ -260,21 +260,21 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 22% | 100% |  |
 | 1 | 21% | 78% |  |
-| 2 | 17% | 57% | Median |
-| 3 | 5% | 40% |  |
-| 4 | 9% | 35% |  |
-| 5 | 6% | 26% |  |
-| 6 | 12% | 20% |  |
-| 7 | 2% | 8% | Last Result |
-| 8 | 1.4% | 5% |  |
-| 9 | 2% | 4% |  |
-| 10 | 0.5% | 2% |  |
-| 11 | 0.9% | 2% |  |
-| 12 | 0.2% | 0.7% |  |
-| 13 | 0.1% | 0.6% |  |
-| 14 | 0.2% | 0.5% |  |
+| 2 | 17% | 58% | Median |
+| 3 | 5% | 41% |  |
+| 4 | 8% | 36% |  |
+| 5 | 6% | 27% |  |
+| 6 | 12% | 21% |  |
+| 7 | 4% | 9% | Last Result |
+| 8 | 1.2% | 5% |  |
+| 9 | 1.4% | 4% |  |
+| 10 | 1.0% | 3% |  |
+| 11 | 0.8% | 2% |  |
+| 12 | 0.3% | 0.8% |  |
+| 13 | 0.1% | 0.5% |  |
+| 14 | 0.2% | 0.4% |  |
 | 15 | 0.1% | 0.3% |  |
-| 16 | 0.2% | 0.3% |  |
+| 16 | 0.1% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 
