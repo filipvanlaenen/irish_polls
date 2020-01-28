@@ -77,7 +77,7 @@ Last result: **2.2%** (General Election of 26 February 2016)
 | [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 | [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.7% | 0.0–0.9% |
-| [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 1.0% | N/A | N/A | N/A | N/A |
+| [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [12 September 2017](2017-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
 | [21 July 2017](2017-07-21-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 0.0% | N/A | N/A | N/A | N/A |
 | [11 July 2017](2017-07-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
@@ -138,7 +138,7 @@ Last result: **0** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail |  |  |  |  |  |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times |  |  |  |  |  |
@@ -182,7 +182,7 @@ Last result: **0** seats (General Election of 26 February 2016)
 | [6–13 September 2018](2018-09-13-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0–1 |
 | [15–24 August 2018](2018-08-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail |  |  |  |  |  |
 | [5–17 July 2018](2018-07-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
-| [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
+| [12 June 2018](2018-06-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0–1 |
 | [10–16 May 2018](2018-05-16-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0–1 |
 | [3–15 May 2018](2018-05-15-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times |  |  |  |  |  |
 | [19–30 April 2018](2018-04-30-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
@@ -205,7 +205,7 @@ Last result: **0** seats (General Election of 26 February 2016)
 | [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0 |
 | [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0 | 0 | 0 | 0 |
-| [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0 |
+| [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [12 September 2017](2017-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [21 July 2017](2017-07-21-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
 | [11 July 2017](2017-07-11-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
@@ -253,8 +253,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 95% | 100% | Last Result, Median |
-| 1 | 5% | 5% |  |
-| 2 | 0% | 0% |  |
+| 0 | 32% | 100% | Last Result |
+| 1 | 29% | 68% | Median |
+| 2 | 11% | 39% |  |
+| 3 | 27% | 28% |  |
+| 4 | 0.4% | 0.4% |  |
+| 5 | 0% | 0% |  |
 
 
