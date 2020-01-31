@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/irish_polls</id>
   <title>All Registered Polls for the Dáil Éireann</title>
-  <updated>2020-01-30T22:54:22.182381+01:00</updated>
+  <updated>2020-01-31T20:09:12.877558+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael: 19.4–24.7%, 28–45 seats</li><li>Fianna Fáil: 24.2–29.9%, 44–57 seats</li><li>Sinn Féin: 17.5–22.6%, 34–40 seats</li><li>Labour Party: 4.7–7.8%, 2–17 seats</li><li>Solidarity–People Before Profit: 0.5–1.8%, 0–1 seats</li><li>Social Democrats: 2.1–4.3%, 3–7 seats</li><li>Green Party/Comhaontas Glas: 8.2–12.1%, 7–21 seats</li><li>Independents 4 Change: 0.7–2.1%, 1–3 seats</li><li>Independent: 7.6–11.4%, 3–15 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_polls/2020-01-25-IrelandThinks.html</id>
@@ -120,6 +120,22 @@
     <dc:date>2020-01-30T21:28:06.102008+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael: 28.4–33.6%, 53–66 seats</li><li>Fianna Fáil: 26.4–31.6%, 48–58 seats</li><li>Sinn Féin: 16.8–21.2%, 31–37 seats</li><li>Labour Party: 3.0–5.3%, 0–6 seats</li><li>Solidarity–People Before Profit: 1.3–3.0%, 0–3 seats</li><li>Social Democrats: 1.3–3.0%, 1–4 seats</li><li>Green Party/Comhaontas Glas: 2.2–4.1%, 0–3 seats</li><li>Renua Ireland: 0.1–0.7%, 0 seats</li><li>Independents 4 Change: 0.5–1.6%, 1–3 seats</li><li>Independent: 6.2–9.2%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_polls/2017-10-02-IpsosMRBI.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_polls/2017-10-02-IpsosMRBI.html"/>
+    <title>Opinion Poll by Ipsos MRBI for Irish Times, 2 October 2017</title>
+    <updated>2020-01-31T19:24:16.977339+01:00</updated>
+    <dc:date>2020-01-31T19:24:16.977339+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael: 21.5–26.7%, 41–56 seats</li><li>Fianna Fáil: 23.4–28.8%, 43–56 seats</li><li>Sinn Féin: 16.7–21.6%, 32–40 seats</li><li>Labour Party: 2.9–5.4%, 0–7 seats</li><li>Solidarity–People Before Profit: 4.7–7.6%, 6–11 seats</li><li>Social Democrats: 2.1–4.2%, 3–6 seats</li><li>Green Party/Comhaontas Glas: 2.9–5.4%, 2–5 seats</li><li>Renua Ireland: 0.5–1.8%, 0–3 seats</li><li>Independents 4 Change: 0.6–2.0%, 0–3 seats</li><li>Independent: 6.9–10.4%, 3–11 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/irish_polls/2017-02-23-RedC.html</id>
+    <link href="https://filipvanlaenen.github.io/irish_polls/2017-02-23-RedC.html"/>
+    <title>Opinion Poll by Red C for The Sunday Business Post, 23 February 2017</title>
+    <updated>2020-01-31T20:09:12.877558+01:00</updated>
+    <dc:date>2020-01-31T20:09:12.877558+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Fine Gael: 23.8–28.8%, 42–55 seats</li><li>Fianna Fáil: 23.8–28.8%, 40–53 seats</li><li>Sinn Féin: 17.0–21.5%, 33–38 seats</li><li>Labour Party: 4.0–6.5%, 1–10 seats</li><li>Solidarity–People Before Profit: 2.2–4.1%, 1–4 seats</li><li>Social Democrats: 1.3–3.0%, 1–3 seats</li><li>Green Party/Comhaontas Glas: 2.2–4.1%, 0–2 seats</li><li>Independents 4 Change: 1.0–2.5%, 2–3 seats</li><li>Independent: 11.1–14.9%, 10–18 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/irish_polls/2016-10-04-IpsosMRBI.html</id>
     <link href="https://filipvanlaenen.github.io/irish_polls/2016-10-04-IpsosMRBI.html"/>
@@ -135,5 +151,5 @@
     <updated>2020-01-30T19:41:22.492432+01:00</updated>
     <dc:date>2020-01-30T19:41:22.492432+01:00</dc:date>
   </entry>
-  <dc:date>2020-01-30T22:54:22.182381+01:00</dc:date>
+  <dc:date>2020-01-31T20:09:12.877558+01:00</dc:date>
 </feed>
