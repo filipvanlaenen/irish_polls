@@ -15,7 +15,7 @@ Last result: **6.6%** (General Election of 26 February 2016)
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.8% |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
+| [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 5.0% | 4.3–5.8% | 4.2–6.0% | 4.0–6.2% | 3.7–6.6% |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.3% |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.2–8.3% |
@@ -148,7 +148,7 @@ Last result: **7** seats (General Election of 26 February 2016)
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–3 | 0–5 | 0–6 | 0–8 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 5 | 2–8 | 1–9 | 1–9 | 1–11 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0–5 | 0–6 | 0–6 | 0–8 |
-| [26 December 2019](2019-12-26-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 1–6 | 1–7 | 1–8 | 0–10 |
+| [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 4 | 1–6 | 1–7 | 1–8 | 0–10 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8 | 4–13 | 4–14 | 3–16 | 1–18 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 6 | 4–9 | 3–11 | 2–12 | 1–14 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 8 | 6–15 | 4–16 | 2–16 | 2–18 |
@@ -204,12 +204,12 @@ Last result: **7** seats (General Election of 26 February 2016)
 | [4–16 January 2018](2018-01-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 7 | 4–9 | 3–10 | 2–12 | 1–15 |
 | [24 December 2017](2017-12-24-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 1–7 | 0–8 | 0–8 | 0–10 |
 | [22 December 2017](2017-12-22-IrelandThinks.html) | Ireland Thinks <br> Irish Daily Mail | 6 | 1–8 | 1–9 | 1–9 | 1–12 |
-| [7 December 2017](2017-12-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0–3 | 0–5 | 0–5 | 0–5 |
+| [7 December 2017](2017-12-07-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0–3 | 0–5 | 0–6 | 0–8 |
 | [23 November 2017](2017-11-23-RedC.html) | Red C <br> The Sunday Business Post | 6 | 3–7 | 2–9 | 1–11 | 1–17 |
 | [7 November 2017](2017-11-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 0 | 0 | 0–1 | 0–2 | 0–3 |
 | [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post | 6 | 5–11 | 3–11 | 2–11 | 1–14 |
 | [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 0–2 | 0–4 | 0–4 | 0–6 |
-| [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 0 | 0–1 | 0–2 | 0–2 | 0–6 |
+| [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 0–3 | 0–4 | 0–6 | 0–9 |
 | [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 5 | 1–9 | 1–12 | 0–12 | 0–12 |
 | [12 September 2017](2017-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 3 | 1–8 | 0–8 | 0–8 | 0–9 |
 | [21 July 2017](2017-07-21-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 8 | 6–12 | 4–13 | 3–16 | 2–19 |
@@ -232,10 +232,10 @@ Last result: **7** seats (General Election of 26 February 2016)
 | [6 December 2016](2016-12-06-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6 | 1–8 | 1–10 | 1–10 | 1–14 |
 | [25 November 2016](2016-11-25-RedC.html) | Red C <br> The Sunday Business Post | 2 | 1–5 | 1–6 | 1–7 | 0–9 |
 | [9 November 2016](2016-11-09-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0–1 | 0–1 |
-| [27 October 2016](2016-10-27-RedC.html) | Red C <br> The Sunday Business Post | 4 | 3–4 | 2–5 | 1–7 | 0–11 |
+| [27 October 2016](2016-10-27-RedC.html) | Red C <br> The Sunday Business Post | 7 | 3–8 | 2–10 | 1–11 | 0–15 |
 | [20 October 2016](2016-10-20-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 13 | 7–17 | 7–17 | 6–18 | 5–20 |
 | [12 October 2016](2016-10-12-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 2 | 2–6 | 1–6 | 1–8 | 0–10 |
-| [4 October 2016](2016-10-04-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 6 | 2–9 | 2–10 | 1–10 | 1–12 |
+| [4 October 2016](2016-10-04-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 5 | 2–9 | 1–10 | 1–10 | 0–12 |
 | [22 September 2016](2016-09-22-RedC.html) | Red C <br> The Sunday Business Post | 7 | 6–12 | 4–13 | 4–16 | 3–18 |
 | [14 September 2016](2016-09-14-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 11 | 7–15 | 4–17 | 3–20 | 2–20 |
 | [27 July 2016](2016-07-27-RedC.html) | Red C <br> Paddy Power | 1 | 0–1 | 0–2 | 0–3 | 0–5 |
