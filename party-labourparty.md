@@ -113,7 +113,7 @@ Last result: **6.6%** (General Election of 26 February 2016)
 | [15 June 2016](2016-06-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.7% | 3.4–7.2% |
 | [26 May 2016](2016-05-26-RedC.html) | Red C <br> The Sunday Business Post | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.7% | 4.4–8.3% |
 | [11 May 2016](2016-05-11-RedC.html) | Red C <br> Paddy Power | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
-| [11 May 2016](2016-05-11-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 5.0% | 4.2–6.1% | 4.0–6.4% | 3.8–6.6% | 3.4–7.2% |
+| [11 May 2016](2016-05-11-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 5.0% | 4.2–6.1% | 3.9–6.4% | 3.7–6.7% | 3.4–7.2% |
 | [13 April 2016](2016-04-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 4.0% | 3.3–5.0% | 3.1–5.2% | 2.9–5.5% | 2.6–6.0% |
 | [10 March 2016](2016-03-10-RedC.html) | Red C <br> The Sunday Business Post | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 
@@ -223,7 +223,7 @@ Last result: **7** seats (General Election of 26 February 2016)
 | [24 March 2017](2017-03-24-RedC.html) | Red C <br> The Sunday Business Post | 4 | 3–7 | 1–9 | 1–9 | 1–16 |
 | [8 March 2017](2017-03-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 8 | 5–10 | 3–12 | 2–13 | 1–17 |
 | [28 February 2017](2017-02-28-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 0–3 | 0–3 | 0–4 | 0–6 |
-| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–5 | 0–6 | 0–7 | 0–8 |
 | [16 February 2017](2017-02-16-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 7 | 4–10 | 3–11 | 3–11 | 2–12 |
 | [8 February 2017](2017-02-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 9 | 6–9 | 1–9 | 1–10 | 1–12 |
 | [26 January 2017](2017-01-26-RedC.html) | Red C <br> The Sunday Business Post | 2 | 0–8 | 0–9 | 0–9 | 0–9 |

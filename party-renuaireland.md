@@ -113,7 +113,7 @@ Last result: **2.2%** (General Election of 26 February 2016)
 | [15 June 2016](2016-06-15-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
 | [26 May 2016](2016-05-26-RedC.html) | Red C <br> The Sunday Business Post | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [11 May 2016](2016-05-11-RedC.html) | Red C <br> Paddy Power | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
-| [11 May 2016](2016-05-11-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.1–0.8% | 0.0–1.0% |
+| [11 May 2016](2016-05-11-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0.2% | 0.1–0.6% | 0.1–0.7% | 0.0–0.8% | 0.0–1.1% |
 | [13 April 2016](2016-04-13-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [10 March 2016](2016-03-10-RedC.html) | Red C <br> The Sunday Business Post | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 
@@ -218,7 +218,7 @@ Last result: **0** seats (General Election of 26 February 2016)
 | [24 March 2017](2017-03-24-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0 |
 | [8 March 2017](2017-03-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [28 February 2017](2017-02-28-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times |  |  |  |  |  |
-| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0–1 |
+| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
 | [16 February 2017](2017-02-16-MillwardBrown.html) | Millward Brown <br> The Sunday Independent |  |  |  |  |  |
 | [8 February 2017](2017-02-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0 | 0 | 0 | 0 | 0 |
 | [26 January 2017](2017-01-26-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0 | 0 | 0–2 |

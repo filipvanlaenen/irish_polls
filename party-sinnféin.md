@@ -212,7 +212,7 @@ Last result: **23** seats (General Election of 26 February 2016)
 | [7 November 2017](2017-11-07-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 24 | 21–29 | 20–30 | 19–31 | 19–32 |
 | [20 October 2017](2017-10-20-RedC.html) | Red C <br> The Sunday Business Post | 28 | 24–31 | 20–32 | 16–33 | 15–34 |
 | [10 October 2017](2017-10-10-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 37 | 34–40 | 34–42 | 33–42 | 31–43 |
-| [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 35 | 32–36 | 32–37 | 32–37 | 29–39 |
+| [2 October 2017](2017-10-02-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 35 | 32–36 | 32–37 | 31–37 | 30–39 |
 | [22 September 2017](2017-09-22-RedC.html) | Red C <br> The Sunday Business Post | 32 | 30–34 | 28–35 | 26–35 | 21–35 |
 | [12 September 2017](2017-09-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 35–41 | 35–41 | 33–41 | 32–42 |
 | [21 July 2017](2017-07-21-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 37 | 36–40 | 35–41 | 34–41 | 32–43 |
@@ -226,7 +226,7 @@ Last result: **23** seats (General Election of 26 February 2016)
 | [24 March 2017](2017-03-24-RedC.html) | Red C <br> The Sunday Business Post | 34 | 33–35 | 32–37 | 31–37 | 28–38 |
 | [8 March 2017](2017-03-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 43 | 41–46 | 40–48 | 40–49 | 39–50 |
 | [28 February 2017](2017-02-28-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 39 | 35–42 | 34–42 | 34–43 | 34–44 |
-| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 36 | 34–39 | 34–40 | 34–41 | 33–43 |
+| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 36 | 33–38 | 33–39 | 32–40 | 32–41 |
 | [16 February 2017](2017-02-16-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 39 | 35–41 | 34–42 | 34–43 | 33–44 |
 | [8 February 2017](2017-02-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 39 | 37–39 | 36–40 | 35–41 | 33–41 |
 | [26 January 2017](2017-01-26-RedC.html) | Red C <br> The Sunday Business Post | 24 | 22–30 | 21–33 | 19–34 | 19–34 |

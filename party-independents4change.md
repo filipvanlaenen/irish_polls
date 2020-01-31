@@ -218,7 +218,7 @@ Last result: **4** seats (General Election of 26 February 2016)
 | [24 March 2017](2017-03-24-RedC.html) | Red C <br> The Sunday Business Post | 4 | 2–5 | 0–5 | 0–5 | 0–5 |
 | [8 March 2017](2017-03-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [28 February 2017](2017-02-28-IpsosMRBI.html) | Ipsos MRBI <br> Irish Times | 1 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [23 February 2017](2017-02-23-RedC.html) | Red C <br> The Sunday Business Post | 2 | 2–3 | 1–3 | 0–3 | 0–3 |
 | [16 February 2017](2017-02-16-MillwardBrown.html) | Millward Brown <br> The Sunday Independent | 0 | 0 | 0 | 0–1 | 0–2 |
 | [8 February 2017](2017-02-08-BehaviourAttitudes.html) | Behaviour & Attitudes <br> The Sunday Times | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [26 January 2017](2017-01-26-RedC.html) | Red C <br> The Sunday Business Post | 4 | 3–5 | 1–5 | 1–5 | 0–5 |
