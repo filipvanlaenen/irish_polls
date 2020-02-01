@@ -148,8 +148,8 @@ Last result: **49** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 31–43 | 29–44 | 28–46 | 26–48 |
-| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 31 | 28–35 | 27–36 | 26–37 | 25–39 |
+| N/A | [Poll Average](average.html) | 38 | 31–43 | 29–44 | 28–46 | 25–48 |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 31 | 28–35 | 26–36 | 25–37 | 24–39 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 31–43 | 30–44 | 28–45 | 26–48 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 41 | 37–44 | 36–45 | 35–47 | 33–50 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 41 | 37–44 | 37–46 | 36–47 | 34–49 |
@@ -264,19 +264,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 0% | 100% |  |
-| 24 | 0% | 99.9% |  |
-| 25 | 0.1% | 99.9% |  |
-| 26 | 0.6% | 99.8% |  |
-| 27 | 1.1% | 99.2% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 99.9% |  |
+| 24 | 0.1% | 99.9% |  |
+| 25 | 0.5% | 99.9% |  |
+| 26 | 0.8% | 99.3% |  |
+| 27 | 0.8% | 98.6% |  |
 | 28 | 1.4% | 98% |  |
-| 29 | 2% | 97% |  |
-| 30 | 4% | 95% |  |
+| 29 | 2% | 96% |  |
+| 30 | 3% | 95% |  |
 | 31 | 5% | 91% |  |
-| 32 | 5% | 86% |  |
+| 32 | 4% | 86% |  |
 | 33 | 6% | 82% |  |
 | 34 | 3% | 76% |  |
-| 35 | 5% | 73% |  |
+| 35 | 6% | 73% |  |
 | 36 | 4% | 67% |  |
 | 37 | 7% | 63% |  |
 | 38 | 12% | 56% | Median |

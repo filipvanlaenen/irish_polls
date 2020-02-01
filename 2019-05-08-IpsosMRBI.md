@@ -10,8 +10,8 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fine Gael | 25.5% | 28.8% | 27.3–30.3% |26.9–30.8% |26.6–31.2% |25.9–31.9% |
-| Fianna Fáil | 24.3% | 25.8% | 24.4–27.3% |24.0–27.7% |23.6–28.1% |23.0–28.8% |
+| Fine Gael | 25.5% | 28.9% | 27.3–30.3% |26.9–30.8% |26.6–31.2% |25.9–31.9% |
+| Fianna Fáil | 24.3% | 25.9% | 24.4–27.3% |24.0–27.7% |23.6–28.1% |23.0–28.8% |
 | Sinn Féin | 13.8% | 15.9% | 14.7–17.1% |14.4–17.5% |14.1–17.8% |13.6–18.4% |
 | Independent | 15.9% | 15.1% | 13.9–16.3% |13.6–16.7% |13.3–17.0% |12.8–17.6% |
 | Labour Party | 6.6% | 6.9% | 6.2–7.8% |5.9–8.1% |5.7–8.3% |5.4–8.8% |
@@ -19,7 +19,7 @@
 | Independents 4 Change | 1.5% | 1.9% | 1.5–2.4% |1.4–2.6% |1.3–2.7% |1.1–3.0% |
 | Solidarity–People Before Profit | 3.9% | 0.3% | 0.2–0.5% |0.1–0.6% |0.1–0.7% |0.1–0.8% |
 | Social Democrats | 3.0% | 0.3% | 0.2–0.5% |0.1–0.6% |0.1–0.7% |0.1–0.8% |
-| Renua Ireland | 2.2% | 0.3% | 0.2–0.5% |0.1–0.6% |0.1–0.7% |0.1–0.8% |
+| Renua Ireland | 2.2% | 0.1% | 0.2–0.5% |0.1–0.6% |0.1–0.7% |0.1–0.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -587,7 +587,7 @@
 
 ### Calculations
 
-+ **Sample size:** 1500
++ **Sample size:** 1497
 + **Simulations done:** 131,072
 + **Error estimate:** 0.69%
 

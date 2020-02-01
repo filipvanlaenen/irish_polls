@@ -10,16 +10,16 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil | 24.3% | 28.0% | 26.2–30.0% |25.7–30.5% |25.2–31.0% |24.4–32.0% |
-| Fine Gael | 25.5% | 26.0% | 24.2–27.9% |23.7–28.4% |23.2–28.9% |22.4–29.8% |
-| Sinn Féin | 13.8% | 19.0% | 17.5–20.8% |17.0–21.3% |16.6–21.7% |15.9–22.6% |
+| Fianna Fáil | 24.3% | 28.2% | 26.2–30.0% |25.7–30.5% |25.2–31.0% |24.4–32.0% |
+| Fine Gael | 25.5% | 26.1% | 24.2–27.9% |23.7–28.4% |23.2–28.9% |22.4–29.8% |
+| Sinn Féin | 13.8% | 19.2% | 17.5–20.8% |17.0–21.3% |16.6–21.7% |15.9–22.6% |
 | Independent | 15.9% | 7.6% | 6.6–8.8% |6.3–9.2% |6.0–9.5% |5.6–10.1% |
 | Labour Party | 6.6% | 5.0% | 4.2–6.0% |3.9–6.3% |3.7–6.6% |3.4–7.1% |
-| Solidarity–People Before Profit | 3.9% | 3.0% | 2.4–3.9% |2.2–4.1% |2.1–4.4% |1.8–4.8% |
-| Green Party/Comhaontas Glas | 2.7% | 3.0% | 2.4–3.9% |2.2–4.1% |2.1–4.4% |1.8–4.8% |
+| Solidarity–People Before Profit | 3.9% | 3.1% | 2.4–3.9% |2.2–4.1% |2.1–4.4% |1.8–4.8% |
+| Green Party/Comhaontas Glas | 2.7% | 3.1% | 2.4–3.9% |2.2–4.1% |2.1–4.4% |1.8–4.8% |
 | Social Democrats | 3.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
-| Renua Ireland | 2.2% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 | Independents 4 Change | 1.5% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
+| Renua Ireland | 2.2% | 0.3% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -41,8 +41,8 @@
 | <a href="#solidarity–people-before-profit">Solidarity–People Before Profit</a> | 6 | 4 | 2–5 |1–6 |1–8 |0–9 |
 | <a href="#green-party/comhaontas-glas">Green Party/Comhaontas Glas</a> | 2 | 1 | 0–2 |0–2 |0–3 |0–4 |
 | <a href="#social-democrats">Social Democrats</a> | 3 | 1 | 0–2 |0–3 |0–3 |0–4 |
-| <a href="#renua-ireland">Renua Ireland</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#independents-4-change">Independents 4 Change</a> | 4 | 1 | 0–4 |0–4 |0–4 |0–5 |
+| <a href="#renua-ireland">Renua Ireland</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 
 ### Fianna Fáil
 
@@ -241,19 +241,6 @@
 | 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
-### Renua Ireland
-
-*For a full overview of the results for this party, see the [Renua Ireland](party-renuaireland.html) page.*
-
-![Graph with seats probability mass function not yet produced](2016-12-13-BehaviourAttitudes-seats-pmf-renuaireland.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 88% | 100% | Last Result, Median |
-| 1 | 12% | 12% |  |
-| 2 | 0.1% | 0.1% |  |
-| 3 | 0% | 0% |  |
-
 ### Independents 4 Change
 
 *For a full overview of the results for this party, see the [Independents 4 Change](party-independents4change.html) page.*
@@ -269,6 +256,19 @@
 | 4 | 32% | 33% | Last Result |
 | 5 | 1.3% | 1.3% |  |
 | 6 | 0% | 0% |  |
+
+### Renua Ireland
+
+*For a full overview of the results for this party, see the [Renua Ireland](party-renuaireland.html) page.*
+
+![Graph with seats probability mass function not yet produced](2016-12-13-BehaviourAttitudes-seats-pmf-renuaireland.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 88% | 100% | Last Result, Median |
+| 1 | 12% | 12% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -663,7 +663,7 @@
 
 ### Calculations
 
-+ **Sample size:** 924
++ **Sample size:** 918
 + **Simulations done:** 1,048,575
 + **Error estimate:** 1.34%
 

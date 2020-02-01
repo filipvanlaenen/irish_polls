@@ -10,16 +10,16 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Fianna Fáil | 24.3% | 26.3% | 24.5–28.2% |24.0–28.8% |23.5–29.2% |22.7–30.2% |
-| Fine Gael | 25.5% | 25.3% | 23.5–27.2% |23.0–27.8% |22.6–28.2% |21.7–29.2% |
-| Sinn Féin | 13.8% | 17.2% | 15.7–18.9% |15.2–19.4% |14.9–19.8% |14.2–20.6% |
-| Independent | 15.9% | 9.4% | 8.3–10.8% |8.0–11.2% |7.7–11.5% |7.2–12.2% |
-| Labour Party | 6.6% | 5.0% | 4.2–6.1% |4.0–6.4% |3.8–6.7% |3.4–7.2% |
+| Fianna Fáil | 24.3% | 26.5% | 24.5–28.2% |24.0–28.8% |23.5–29.2% |22.7–30.2% |
+| Fine Gael | 25.5% | 25.5% | 23.5–27.2% |23.0–27.8% |22.6–28.2% |21.7–29.2% |
+| Sinn Féin | 13.8% | 17.3% | 15.7–18.9% |15.2–19.4% |14.9–19.8% |14.2–20.6% |
+| Independent | 15.9% | 9.5% | 8.3–10.8% |8.0–11.2% |7.7–11.5% |7.2–12.2% |
+| Labour Party | 6.6% | 5.1% | 4.2–6.1% |4.0–6.4% |3.8–6.7% |3.4–7.2% |
 | Solidarity–People Before Profit | 3.9% | 4.1% | 3.3–5.0% |3.1–5.3% |3.0–5.5% |2.6–6.1% |
 | Green Party/Comhaontas Glas | 2.7% | 3.1% | 2.4–3.9% |2.3–4.2% |2.1–4.4% |1.9–4.9% |
 | Independents 4 Change | 1.5% | 1.2% | 0.9–1.8% |0.7–2.0% |0.7–2.1% |0.5–2.5% |
 | Social Democrats | 3.0% | 1.0% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
-| Renua Ireland | 2.2% | 1.0% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
+| Renua Ireland | 2.2% | 0.3% | 0.7–1.6% |0.6–1.7% |0.5–1.9% |0.4–2.2% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -695,7 +695,7 @@
 
 ### Calculations
 
-+ **Sample size:** 913
++ **Sample size:** 907
 + **Simulations done:** 1,048,575
 + **Error estimate:** 0.81%
 

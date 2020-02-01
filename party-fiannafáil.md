@@ -154,8 +154,8 @@ Last result: **44** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 49 | 40–60 | 38–61 | 36–62 | 32–65 |
-| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 40 | 36–46 | 33–47 | 32–49 | 31–51 |
+| N/A | [Poll Average](average.html) | 49 | 41–60 | 39–61 | 37–62 | 33–65 |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 41 | 36–47 | 34–48 | 33–49 | 32–51 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 49 | 45–55 | 44–56 | 44–57 | 40–58 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 50 | 46–54 | 45–55 | 42–56 | 39–57 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 49 | 43–51 | 42–53 | 40–54 | 37–55 |
@@ -271,28 +271,28 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 30 | 0% | 100% |  |
-| 31 | 0.3% | 99.9% |  |
-| 32 | 0.5% | 99.7% |  |
-| 33 | 0.2% | 99.2% |  |
-| 34 | 0.3% | 99.0% |  |
-| 35 | 0.4% | 98.7% |  |
-| 36 | 1.2% | 98% |  |
-| 37 | 1.3% | 97% |  |
-| 38 | 2% | 96% |  |
-| 39 | 3% | 94% |  |
-| 40 | 4% | 91% |  |
-| 41 | 1.3% | 87% |  |
-| 42 | 2% | 86% |  |
-| 43 | 3% | 84% |  |
-| 44 | 3% | 81% | Last Result |
-| 45 | 4% | 79% |  |
+| 31 | 0% | 99.9% |  |
+| 32 | 0.2% | 99.9% |  |
+| 33 | 0.6% | 99.7% |  |
+| 34 | 0.3% | 99.1% |  |
+| 35 | 0.3% | 98.8% |  |
+| 36 | 0.7% | 98% |  |
+| 37 | 1.3% | 98% |  |
+| 38 | 1.4% | 97% |  |
+| 39 | 3% | 95% |  |
+| 40 | 2% | 92% |  |
+| 41 | 3% | 90% |  |
+| 42 | 3% | 87% |  |
+| 43 | 2% | 84% |  |
+| 44 | 3% | 82% | Last Result |
+| 45 | 5% | 79% |  |
 | 46 | 7% | 74% |  |
-| 47 | 7% | 67% |  |
-| 48 | 4% | 60% |  |
+| 47 | 7% | 68% |  |
+| 48 | 5% | 61% |  |
 | 49 | 10% | 56% | Median |
 | 50 | 5% | 46% |  |
 | 51 | 8% | 41% |  |
-| 52 | 3% | 32% |  |
+| 52 | 3% | 33% |  |
 | 53 | 3% | 30% |  |
 | 54 | 2% | 26% |  |
 | 55 | 2% | 24% |  |
