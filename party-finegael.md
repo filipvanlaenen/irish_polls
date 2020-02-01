@@ -150,7 +150,7 @@ Last result: **49** seats (General Election of 26 February 2016)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 31–43 | 29–44 | 28–46 | 25–48 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 31 | 28–35 | 26–36 | 25–37 | 24–39 |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 31–43 | 30–44 | 28–45 | 26–48 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 30–43 | 29–44 | 27–45 | 26–49 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 41 | 37–44 | 36–45 | 35–47 | 33–50 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 41 | 37–44 | 37–46 | 36–47 | 34–49 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 35–41 | 33–43 | 33–43 | 29–45 |
@@ -267,18 +267,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0% | 100% |  |
 | 23 | 0% | 99.9% |  |
 | 24 | 0.1% | 99.9% |  |
-| 25 | 0.5% | 99.9% |  |
+| 25 | 0.6% | 99.9% |  |
 | 26 | 0.8% | 99.3% |  |
-| 27 | 0.8% | 98.6% |  |
-| 28 | 1.4% | 98% |  |
+| 27 | 0.8% | 98% |  |
+| 28 | 1.5% | 98% |  |
 | 29 | 2% | 96% |  |
-| 30 | 3% | 95% |  |
+| 30 | 3% | 94% |  |
 | 31 | 5% | 91% |  |
 | 32 | 4% | 86% |  |
 | 33 | 6% | 82% |  |
 | 34 | 3% | 76% |  |
-| 35 | 6% | 73% |  |
-| 36 | 4% | 67% |  |
+| 35 | 5% | 73% |  |
+| 36 | 5% | 67% |  |
 | 37 | 7% | 63% |  |
 | 38 | 12% | 56% | Median |
 | 39 | 8% | 44% |  |
@@ -289,10 +289,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 4% | 8% |  |
 | 45 | 2% | 4% |  |
 | 46 | 1.1% | 3% |  |
-| 47 | 0.7% | 1.5% |  |
+| 47 | 0.8% | 2% |  |
 | 48 | 0.3% | 0.8% |  |
 | 49 | 0.2% | 0.5% | Last Result |
-| 50 | 0.1% | 0.2% |  |
+| 50 | 0.1% | 0.3% |  |
 | 51 | 0.1% | 0.1% |  |
 | 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
