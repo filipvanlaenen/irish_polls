@@ -157,8 +157,8 @@ Last result: **44** seats (General Election of 26 February 2016)
 | N/A | [Poll Average](average.html) | 49 | 41–60 | 39–61 | 37–62 | 33–65 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 41 | 36–47 | 34–48 | 33–49 | 32–51 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 50 | 46–55 | 45–56 | 44–57 | 41–58 |
-| [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 50 | 46–54 | 45–55 | 42–56 | 39–57 |
-| [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 49 | 43–51 | 42–53 | 40–54 | 37–55 |
+| [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 50 | 45–54 | 44–55 | 42–55 | 39–57 |
+| [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 49 | 44–51 | 43–53 | 41–54 | 37–55 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 60 | 59–63 | 58–63 | 57–65 | 56–66 |
 | [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 45 | 40–48 | 38–51 | 36–52 | 35–53 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 51 | 46–55 | 45–55 | 44–56 | 41–57 |
@@ -282,21 +282,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 39 | 3% | 95% |  |
 | 40 | 2% | 92% |  |
 | 41 | 3% | 90% |  |
-| 42 | 3% | 87% |  |
-| 43 | 2% | 84% |  |
-| 44 | 2% | 82% | Last Result |
-| 45 | 4% | 80% |  |
-| 46 | 7% | 76% |  |
-| 47 | 6% | 69% |  |
-| 48 | 6% | 63% |  |
-| 49 | 8% | 57% | Median |
-| 50 | 7% | 48% |  |
-| 51 | 9% | 42% |  |
+| 42 | 2% | 87% |  |
+| 43 | 2% | 85% |  |
+| 44 | 3% | 83% | Last Result |
+| 45 | 4% | 79% |  |
+| 46 | 5% | 76% |  |
+| 47 | 8% | 70% |  |
+| 48 | 7% | 63% |  |
+| 49 | 8% | 56% | Median |
+| 50 | 8% | 48% |  |
+| 51 | 7% | 40% |  |
 | 52 | 3% | 33% |  |
-| 53 | 3% | 30% |  |
+| 53 | 3% | 29% |  |
 | 54 | 3% | 27% |  |
-| 55 | 2% | 25% |  |
-| 56 | 1.3% | 22% |  |
+| 55 | 2% | 24% |  |
+| 56 | 1.1% | 22% |  |
 | 57 | 1.1% | 21% |  |
 | 58 | 1.1% | 20% |  |
 | 59 | 3% | 19% |  |

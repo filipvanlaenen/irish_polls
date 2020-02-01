@@ -148,11 +148,11 @@ Last result: **49** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 31–43 | 29–44 | 28–46 | 25–48 |
+| N/A | [Poll Average](average.html) | 38 | 31–43 | 29–44 | 28–46 | 25–49 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 31 | 28–35 | 26–36 | 25–37 | 24–39 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 30–43 | 29–44 | 27–45 | 26–49 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 41 | 37–44 | 36–45 | 35–47 | 33–50 |
-| [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 41 | 37–44 | 37–46 | 36–47 | 34–49 |
+| [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 41 | 37–44 | 37–46 | 36–47 | 34–50 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 35–41 | 33–43 | 33–43 | 29–45 |
 | [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 53 | 48–57 | 46–59 | 44–60 | 42–61 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 51 | 48–57 | 47–59 | 46–60 | 44–61 |
@@ -285,15 +285,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 40 | 5% | 36% |  |
 | 41 | 10% | 31% |  |
 | 42 | 8% | 21% |  |
-| 43 | 5% | 13% |  |
-| 44 | 4% | 8% |  |
+| 43 | 4% | 13% |  |
+| 44 | 4% | 9% |  |
 | 45 | 2% | 4% |  |
-| 46 | 1.1% | 3% |  |
+| 46 | 1.2% | 3% |  |
 | 47 | 0.8% | 2% |  |
 | 48 | 0.3% | 0.8% |  |
-| 49 | 0.2% | 0.5% | Last Result |
+| 49 | 0.3% | 0.5% | Last Result |
 | 50 | 0.1% | 0.3% |  |
-| 51 | 0.1% | 0.1% |  |
+| 51 | 0.1% | 0.2% |  |
 | 52 | 0% | 0.1% |  |
 | 53 | 0% | 0% |  |
 

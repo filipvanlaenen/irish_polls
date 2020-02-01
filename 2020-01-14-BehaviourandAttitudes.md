@@ -293,8 +293,12 @@
 | Fianna Fáil – Green Party/Comhaontas Glas – Labour Party | 53 | 70 | 0.2% | 68–73 | 67–75 | 66–77 | 66–78 |
 | Fianna Fáil – Green Party/Comhaontas Glas | 46 | 69 | 0.1% | 66–72 | 65–73 | 65–74 | 63–76 |
 | Fianna Fáil – Labour Party | 51 | 61 | 0% | 59–65 | 59–67 | 58–68 | 58–69 |
+| Sinn Féin – Green Party/Comhaontas Glas – Labour Party – Solidarity–People Before Profit – Social Democrats | 41 | 50 | 0% | 47–52 | 46–53 | 45–55 | 43–57 |
 | Fine Gael – Green Party/Comhaontas Glas – Labour Party – Social Democrats | 61 | 47 | 0% | 46–52 | 44–54 | 44–54 | 42–58 |
+| Sinn Féin – Green Party/Comhaontas Glas – Labour Party – Solidarity–People Before Profit | 38 | 49 | 0% | 47–51 | 45–53 | 44–54 | 41–56 |
 | Fine Gael – Green Party/Comhaontas Glas – Labour Party | 58 | 47 | 0% | 44–51 | 44–52 | 43–54 | 40–56 |
+| Sinn Féin – Green Party/Comhaontas Glas – Labour Party – Social Democrats | 35 | 48 | 0% | 46–51 | 45–52 | 43–54 | 41–56 |
+| Sinn Féin – Green Party/Comhaontas Glas – Labour Party | 32 | 48 | 0% | 46–50 | 44–51 | 43–53 | 40–54 |
 | Fine Gael – Green Party/Comhaontas Glas | 51 | 46 | 0% | 43–50 | 40–51 | 39–53 | 38–55 |
 | Fine Gael – Labour Party | 56 | 38 | 0% | 37–42 | 35–44 | 34–45 | 32–48 |
 | Fine Gael | 49 | 38 | 0% | 35–41 | 33–43 | 33–43 | 29–45 |
@@ -530,6 +534,36 @@
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
 
+### Sinn Féin – Green Party/Comhaontas Glas – Labour Party – Solidarity–People Before Profit – Social Democrats
+
+![Graph with seats probability mass function not yet produced](2020-01-14-BehaviourandAttitudes-coalitions-seats-pmf-sf–gp–lab–s-pbp–sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 41 | 0% | 100% | Last Result |
+| 42 | 0.3% | 100% |  |
+| 43 | 0.1% | 99.6% |  |
+| 44 | 2% | 99.5% |  |
+| 45 | 1.4% | 98% |  |
+| 46 | 2% | 96% |  |
+| 47 | 5% | 94% |  |
+| 48 | 3% | 89% |  |
+| 49 | 35% | 86% |  |
+| 50 | 10% | 51% | Median |
+| 51 | 17% | 41% |  |
+| 52 | 15% | 24% |  |
+| 53 | 3% | 8% |  |
+| 54 | 2% | 5% |  |
+| 55 | 1.3% | 3% |  |
+| 56 | 1.0% | 2% |  |
+| 57 | 0.5% | 1.0% |  |
+| 58 | 0.2% | 0.5% |  |
+| 59 | 0.1% | 0.3% |  |
+| 60 | 0% | 0.2% |  |
+| 61 | 0.1% | 0.2% |  |
+| 62 | 0.1% | 0.1% |  |
+| 63 | 0% | 0% |  |
+
 ### Fine Gael – Green Party/Comhaontas Glas – Labour Party – Social Democrats
 
 ![Graph with seats probability mass function not yet produced](2020-01-14-BehaviourandAttitudes-coalitions-seats-pmf-fg–gp–lab–sd.png "Seats Probability Mass Function")
@@ -559,6 +593,37 @@
 | 59 | 0.1% | 0.2% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% | Last Result |
+
+### Sinn Féin – Green Party/Comhaontas Glas – Labour Party – Solidarity–People Before Profit
+
+![Graph with seats probability mass function not yet produced](2020-01-14-BehaviourandAttitudes-coalitions-seats-pmf-sf–gp–lab–s-pbp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 38 | 0% | 100% | Last Result |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.6% | 100% |  |
+| 42 | 0.6% | 99.4% |  |
+| 43 | 0.2% | 98.8% |  |
+| 44 | 2% | 98.6% |  |
+| 45 | 3% | 97% |  |
+| 46 | 3% | 94% |  |
+| 47 | 6% | 91% |  |
+| 48 | 3% | 85% |  |
+| 49 | 45% | 82% |  |
+| 50 | 13% | 37% | Median |
+| 51 | 16% | 25% |  |
+| 52 | 3% | 8% |  |
+| 53 | 2% | 6% |  |
+| 54 | 2% | 3% |  |
+| 55 | 1.0% | 2% |  |
+| 56 | 0.1% | 0.6% |  |
+| 57 | 0.1% | 0.5% |  |
+| 58 | 0.1% | 0.3% |  |
+| 59 | 0.1% | 0.2% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0% |  |
 
 ### Fine Gael – Green Party/Comhaontas Glas – Labour Party
 
@@ -590,6 +655,77 @@
 | 59 | 0.1% | 0.2% |  |
 | 60 | 0.1% | 0.1% |  |
 | 61 | 0% | 0% |  |
+
+### Sinn Féin – Green Party/Comhaontas Glas – Labour Party – Social Democrats
+
+![Graph with seats probability mass function not yet produced](2020-01-14-BehaviourandAttitudes-coalitions-seats-pmf-sf–gp–lab–sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 35 | 0% | 100% | Last Result |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0.5% | 100% |  |
+| 42 | 0.2% | 99.4% |  |
+| 43 | 2% | 99.2% |  |
+| 44 | 1.1% | 97% |  |
+| 45 | 2% | 96% |  |
+| 46 | 5% | 94% |  |
+| 47 | 4% | 89% |  |
+| 48 | 40% | 85% |  |
+| 49 | 9% | 45% | Median |
+| 50 | 14% | 36% |  |
+| 51 | 15% | 22% |  |
+| 52 | 3% | 7% |  |
+| 53 | 1.5% | 4% |  |
+| 54 | 0.9% | 3% |  |
+| 55 | 0.9% | 2% |  |
+| 56 | 0.5% | 0.9% |  |
+| 57 | 0.1% | 0.4% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0% | 0.2% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0.1% |  |
+| 62 | 0% | 0% |  |
+
+### Sinn Féin – Green Party/Comhaontas Glas – Labour Party
+
+![Graph with seats probability mass function not yet produced](2020-01-14-BehaviourandAttitudes-coalitions-seats-pmf-sf–gp–lab.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 32 | 0% | 100% | Last Result |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0.5% | 100% |  |
+| 41 | 0.8% | 99.4% |  |
+| 42 | 0.3% | 98.6% |  |
+| 43 | 2% | 98% |  |
+| 44 | 2% | 96% |  |
+| 45 | 4% | 94% |  |
+| 46 | 6% | 91% |  |
+| 47 | 4% | 84% |  |
+| 48 | 50% | 80% |  |
+| 49 | 11% | 31% | Median |
+| 50 | 12% | 19% |  |
+| 51 | 2% | 7% |  |
+| 52 | 2% | 5% |  |
+| 53 | 1.4% | 3% |  |
+| 54 | 0.8% | 1.3% |  |
+| 55 | 0.1% | 0.5% |  |
+| 56 | 0.2% | 0.4% |  |
+| 57 | 0% | 0.2% |  |
+| 58 | 0.1% | 0.2% |  |
+| 59 | 0.1% | 0.1% |  |
+| 60 | 0% | 0% |  |
 
 ### Fine Gael – Green Party/Comhaontas Glas
 
@@ -705,6 +841,6 @@
 ### Calculations
 
 + **Sample size:** 924
-+ **Simulations done:** 1,048,575
++ **Simulations done:** 1,048,576
 + **Error estimate:** 0.91%
 
