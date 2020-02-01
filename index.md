@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | SF | Lab | S-PBP | GP | RI | SD | I4C | I |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 February 2016 | General Election | 25.5% <br> 49 | 24.3% <br> 44 | 13.8% <br> 23 | 6.6% <br> 7 | 3.9% <br> 6 | 2.7% <br> 2 | 2.2% <br> 0 | 3.0% <br> 3 | 1.5% <br> 4 | 15.9% <br> 19 |
-| N/A | [Poll Average](average.html) | 18–25% <br> 28–46 | 22–34% <br> 36–62 | 17–23% <br> 34–40 | 3–7% <br> 0–14 | 1–6% <br> 0–9 | 6–12% <br> 7–20 | 0–2% <br> 0–3 | 1–6% <br> 0–9 | 1–2% <br> 2–3 | 8–14% <br> 3–17 |
+| N/A | [Poll Average](average.html) | 18–25% <br> 28–46 | 22–34% <br> 36–62 | 17–23% <br> 34–40 | 3–7% <br> 0–14 | 1–6% <br> 0–9 | 6–12% <br> 7–20 | 0–1% <br> 0 | 1–6% <br> 0–9 | 1–2% <br> 1–3 | 8–14% <br> 3–17 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 17–22% <br> 26–37 | 20–26% <br> 32–49 | 19–24% <br> 35–41 | 4–7% <br> 1–11 | 4–7% <br> 4–10 | 8–12% <br> 8–22 | N/A <br> N/A | 4–7% <br> 4–12 | 1–2% <br> 2–3 | 8–12% <br> 5–16 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 19–25% <br> 28–45 | 24–30% <br> 44–57 | 18–23% <br> 34–40 | 5–8% <br> 2–17 | 1–2% <br> 0–1 | 8–12% <br> 7–21 | N/A <br> N/A | 2–4% <br> 3–7 | 1–2% <br> 1–3 | 8–11% <br> 3–15 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 20–26% <br> 35–47 | 23–29% <br> 42–56 | 17–22% <br> 34–39 | 3–5% <br> 0–6 | 1–3% <br> 0–3 | 6–10% <br> 7–14 | N/A <br> N/A | 2–4% <br> 3–6 | 1–3% <br> 2–3 | 11–15% <br> 12–18 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 21–25% <br> 36–47 | 23–28% <br> 40–54 | 19–23% <br> 35–40 | 4–6% <br> 1–9 | 1–3% <br> 0–3 | 7–10% <br> 7–14 | N/A <br> N/A | 1–3% <br> 2–3 | 1–2% <br> 2–3 | 9–13% <br> 7–17 |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 18–23% <br> 31–45 | 29–35% <br> 57–65 | 17–22% <br> 33–40 | 3–5% <br> 0–6 | 1–3% <br> 0–4 | 6–9% <br> 5–14 | 1–2% <br> 0–3 | 1–2% <br> 0–3 | 1–2% <br> 1–3 | 8–11% <br> 4–13 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 18–23% <br> 33–43 | 29–35% <br> 57–65 | 17–22% <br> 34–40 | 3–5% <br> 0–6 | 1–3% <br> 0–3 | 6–9% <br> 4–13 | 0–1% <br> 0 | 1–2% <br> 0–3 | 1–2% <br> 1–3 | 8–11% <br> 4–13 |
 | 26 February 2016 | General Election | 25.5% <br> 49 | 24.3% <br> 44 | 13.8% <br> 23 | 6.6% <br> 7 | 3.9% <br> 6 | 2.7% <br> 2 | 2.2% <br> 0 | 3.0% <br> 3 | 1.5% <br> 4 | 15.9% <br> 19 |
 
 Only polls for which at least the sample size has been published are included in the table above.
