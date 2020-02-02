@@ -151,9 +151,9 @@ Last result: **23** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 35–40 | 34–41 | 34–42 | 33–42 |
+| N/A | [Poll Average](average.html) | 38 | 35–40 | 34–40 | 34–42 | 33–42 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 39 | 38–42 | 37–42 | 37–42 | 36–42 |
-| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 37 | 36–40 | 36–41 | 35–41 | 34–42 |
+| [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 37 | 36–39 | 36–39 | 35–39 | 34–40 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 36 | 34–39 | 34–40 | 34–40 | 32–42 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 35 | 34–38 | 34–38 | 34–39 | 33–40 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 38 | 35–40 | 35–40 | 35–40 | 34–41 |
@@ -283,10 +283,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 35 | 6% | 95% |  |
 | 36 | 7% | 89% |  |
 | 37 | 20% | 81% |  |
-| 38 | 23% | 62% | Median |
-| 39 | 24% | 39% |  |
-| 40 | 9% | 15% |  |
-| 41 | 3% | 6% |  |
+| 38 | 24% | 61% | Median |
+| 39 | 24% | 37% |  |
+| 40 | 8% | 13% |  |
+| 41 | 2% | 4% |  |
 | 42 | 3% | 3% |  |
 | 43 | 0% | 0% |  |
 
