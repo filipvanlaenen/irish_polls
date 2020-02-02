@@ -11,6 +11,7 @@ Last result: **2.2%** (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.2% |
+| [2 February 2020](2020-02-02-RedC.html) | Red C <br> The Sunday Business Post | 0.0% | N/A | N/A | N/A | N/A |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 0.0% | N/A | N/A | N/A | N/A |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 0.0% | N/A | N/A | N/A | N/A |
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2 February 2020](2020-02-02-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times |  |  |  |  |  |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail |  |  |  |  |  |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post |  |  |  |  |  |
