@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | FG | FF | SF | Lab | S-PBP | GP | RI | SD | I4C | I |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 February 2016 | General Election | 25.5% <br> 49 | 24.3% <br> 44 | 13.8% <br> 23 | 6.6% <br> 7 | 3.9% <br> 6 | 2.7% <br> 2 | 2.2% <br> 0 | 3.0% <br> 3 | 1.5% <br> 4 | 15.9% <br> 19 |
-| [2 February 2020](2020-02-02-RedC.html) | Red C <br> The Sunday Business Post | 19–24% <br> 33–44 | 22–27% <br> 41–52 | 22–27% <br> 39–44 | 4–7% <br> 1–12 | 1–2% <br> 0–1 | 6–9% <br> 6–11 | N/A <br> N/A | 2–4% <br> 3–8 | 1–2% <br> 1–4 | 9–13% <br> 7–17 |
+| [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 19–24% <br> 33–45 | 22–27% <br> 41–53 | 22–27% <br> 37–42 | 4–7% <br> 1–12 | 1–2% <br> 0–1 | 6–9% <br> 6–12 | N/A <br> N/A | 2–4% <br> 3–8 | 1–2% <br> 1–4 | 9–13% <br> 7–18 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 17–22% <br> 25–37 | 20–26% <br> 33–49 | 19–24% <br> 35–41 | 4–7% <br> 1–11 | 4–7% <br> 4–10 | 8–12% <br> 8–22 | N/A <br> N/A | 4–7% <br> 4–12 | 1–2% <br> 1–4 | 8–12% <br> 5–16 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 19–25% <br> 27–45 | 24–30% <br> 44–57 | 18–23% <br> 34–40 | 5–8% <br> 2–17 | 1–2% <br> 0–1 | 8–12% <br> 7–21 | N/A <br> N/A | 2–4% <br> 3–7 | 1–2% <br> 0–3 | 8–11% <br> 3–15 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 20–26% <br> 35–47 | 23–29% <br> 42–55 | 17–22% <br> 34–39 | 3–5% <br> 0–5 | 1–3% <br> 0–3 | 6–10% <br> 7–14 | N/A <br> N/A | 2–4% <br> 3–6 | 1–3% <br> 2–4 | 11–15% <br> 12–18 |
