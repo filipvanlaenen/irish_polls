@@ -156,12 +156,12 @@ Last result: **44** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 48 | 41–60 | 39–61 | 37–62 | 34–65 |
+| N/A | [Poll Average](average.html) | 49 | 41–60 | 39–61 | 37–62 | 34–65 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 47 | 43–51 | 42–52 | 41–53 | 38–55 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 41 | 36–47 | 34–48 | 34–49 | 32–51 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 50 | 46–55 | 45–56 | 44–57 | 41–58 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 50 | 45–54 | 44–55 | 42–55 | 39–57 |
-| [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 49 | 44–51 | 43–53 | 41–54 | 37–55 |
+| [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 49 | 44–52 | 43–54 | 41–54 | 37–55 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 60 | 59–63 | 58–63 | 57–65 | 56–66 |
 | [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 44 | 39–48 | 37–51 | 36–53 | 34–54 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 51 | 46–55 | 45–56 | 44–56 | 41–58 |
@@ -289,16 +289,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 4% | 80% | Last Result |
 | 45 | 5% | 76% |  |
 | 46 | 7% | 71% |  |
-| 47 | 8% | 64% |  |
-| 48 | 7% | 57% | Median |
-| 49 | 8% | 50% |  |
-| 50 | 7% | 42% |  |
-| 51 | 5% | 34% |  |
-| 52 | 2% | 30% |  |
+| 47 | 7% | 64% |  |
+| 48 | 7% | 57% |  |
+| 49 | 7% | 50% | Median |
+| 50 | 8% | 43% |  |
+| 51 | 5% | 35% |  |
+| 52 | 3% | 30% |  |
 | 53 | 2% | 27% |  |
-| 54 | 3% | 25% |  |
-| 55 | 1.0% | 23% |  |
-| 56 | 1.0% | 22% |  |
+| 54 | 3% | 26% |  |
+| 55 | 1.1% | 23% |  |
+| 56 | 1.1% | 22% |  |
 | 57 | 0.9% | 21% |  |
 | 58 | 1.2% | 20% |  |
 | 59 | 3% | 19% |  |
