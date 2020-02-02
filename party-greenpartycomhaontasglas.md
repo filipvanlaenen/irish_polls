@@ -150,7 +150,7 @@ Last result: **2** seats (General Election of 26 February 2016)
 | N/A | [Poll Average](average.html) | 10 | 7–19 | 7–20 | 6–20 | 4–23 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 8 | 7–11 | 6–12 | 6–12 | 4–15 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 18 | 12–20 | 10–21 | 10–22 | 9–25 |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 16 | 10–19 | 8–20 | 7–21 | 7–23 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 16 | 11–19 | 9–20 | 8–21 | 7–23 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 9 | 7–12 | 7–13 | 7–14 | 6–17 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 8 | 7–12 | 7–13 | 7–14 | 7–17 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 9 | 7–10 | 5–12 | 4–13 | 4–15 |
@@ -272,11 +272,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 17% | 97% |  |
 | 8 | 11% | 80% |  |
 | 9 | 16% | 69% |  |
-| 10 | 8% | 53% | Median |
-| 11 | 8% | 45% |  |
-| 12 | 3% | 37% |  |
-| 13 | 3% | 34% |  |
-| 14 | 2% | 31% |  |
+| 10 | 8% | 54% | Median |
+| 11 | 6% | 46% |  |
+| 12 | 5% | 40% |  |
+| 13 | 3% | 35% |  |
+| 14 | 3% | 31% |  |
 | 15 | 2% | 29% |  |
 | 16 | 3% | 27% |  |
 | 17 | 2% | 24% |  |

@@ -149,10 +149,10 @@ Last result: **49** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38 | 31–42 | 29–44 | 28–45 | 25–48 |
+| N/A | [Poll Average](average.html) | 38 | 31–43 | 29–44 | 28–45 | 25–48 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 40 | 35–43 | 34–43 | 33–45 | 31–48 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 31 | 28–35 | 26–36 | 25–37 | 24–39 |
-| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 30–43 | 29–44 | 27–45 | 26–49 |
+| [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 30–43 | 29–45 | 27–46 | 26–49 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 41 | 37–44 | 36–45 | 35–47 | 33–50 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 41 | 37–44 | 37–46 | 36–47 | 34–50 |
 | [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 35–41 | 33–43 | 33–43 | 29–45 |
@@ -278,21 +278,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 31 | 5% | 91% |  |
 | 32 | 4% | 86% |  |
 | 33 | 6% | 82% |  |
-| 34 | 3% | 75% |  |
-| 35 | 6% | 72% |  |
+| 34 | 3% | 76% |  |
+| 35 | 6% | 73% |  |
 | 36 | 5% | 66% |  |
-| 37 | 7% | 61% |  |
+| 37 | 8% | 62% |  |
 | 38 | 13% | 54% | Median |
-| 39 | 9% | 40% |  |
-| 40 | 7% | 32% |  |
-| 41 | 9% | 25% |  |
-| 42 | 7% | 16% |  |
+| 39 | 7% | 41% |  |
+| 40 | 8% | 34% |  |
+| 41 | 9% | 26% |  |
+| 42 | 7% | 17% |  |
 | 43 | 4% | 10% |  |
 | 44 | 2% | 6% |  |
-| 45 | 1.1% | 3% |  |
-| 46 | 1.0% | 2% |  |
-| 47 | 0.5% | 1.1% |  |
-| 48 | 0.2% | 0.6% |  |
+| 45 | 1.4% | 4% |  |
+| 46 | 1.1% | 2% |  |
+| 47 | 0.5% | 1.2% |  |
+| 48 | 0.2% | 0.7% |  |
 | 49 | 0.2% | 0.4% | Last Result |
 | 50 | 0.1% | 0.2% |  |
 | 51 | 0.1% | 0.1% |  |
