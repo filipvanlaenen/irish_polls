@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Dáil Éireann</title>
     <link>https://filipvanlaenen.github.io/irish_polls</link>
     <description>All Registered Polls for the Dáil Éireann</description>
-    <pubDate>Mon, 03 Feb 2020 06:31:03 +0100</pubDate>
+    <pubDate>Mon, 03 Feb 2020 06:43:30 +0100</pubDate>
     <item>
       <title>Opinion Poll by Red C for The Sunday Business Post, 25–30 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/irish_polls/2020-01-30-RedC.html#seats</link>
@@ -376,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/irish_polls/2019-05-14-BehaviourandAttitudes.png"
         length="218189"
         type="image/png"/>
-      <pubDate>Sat, 01 Feb 2020 20:02:55 +0100</pubDate>
-      <dc:date>2020-02-01T20:02:55.657788+01:00</dc:date>
+      <pubDate>Mon, 03 Feb 2020 06:43:30 +0100</pubDate>
+      <dc:date>2020-02-03T06:43:30.219631+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos MRBI for The Irish Times, 6–8 May 2019 – Voting Intentions</title>
@@ -1239,6 +1239,6 @@
       <pubDate>Sat, 01 Feb 2020 20:02:55 +0100</pubDate>
       <dc:date>2020-02-01T20:02:55.565785+01:00</dc:date>
     </item>
-    <dc:date>2020-02-03T06:31:03.062824+01:00</dc:date>
+    <dc:date>2020-02-03T06:43:30.219631+01:00</dc:date>
   </channel>
 </rss>
