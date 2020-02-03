@@ -167,7 +167,7 @@ Last result: **19** seats (General Election of 26 February 2016)
 | [24 May 2019](2019-05-24-RedC.html) | Red C <br> RTÉ | 7 | 3–9 | 3–11 | 3–11 | 3–14 |
 | [1–22 May 2019](2019-05-22-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0 | 0 | 0 | 0 | 0 |
 | [6–16 May 2019](2019-05-16-RedC.html) | Red C <br> The Sunday Business Post | 16 | 15–16 | 15–16 | 14–16 | 13–16 |
-| [2–14 May 2019](2019-05-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–5 | 3–7 | 3–8 |
+| [2–14 May 2019](2019-05-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 3–4 | 3–4 | 3–5 | 3–8 |
 | [6–8 May 2019](2019-05-08-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 16 | 16 | 16 | 15–16 | 12–16 |
 | [11–17 April 2019](2019-04-17-RedC.html) | Red C <br> The Sunday Business Post | 17 | 16–18 | 16–19 | 15–20 | 14–21 |
 | [4–16 April 2019](2019-04-16-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 4 | 4–6 | 4–6 | 3–6 | 3–7 |
