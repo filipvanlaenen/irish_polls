@@ -155,9 +155,9 @@ Last result: **49** seats (General Election of 26 February 2016)
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 37 | 30–43 | 29–45 | 27–46 | 26–49 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 41 | 37–44 | 36–45 | 35–47 | 33–50 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 42 | 38–45 | 38–47 | 37–48 | 34–50 |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 35–41 | 33–43 | 33–43 | 29–45 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 38 | 35–42 | 34–44 | 33–44 | 29–46 |
 | [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 53 | 47–58 | 46–60 | 44–60 | 42–61 |
-| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 52 | 48–58 | 47–59 | 46–60 | 44–62 |
+| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 52 | 48–58 | 48–59 | 47–60 | 45–62 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 65 | 57–68 | 55–69 | 54–70 | 51–71 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 54 | 45–58 | 44–60 | 44–61 | 42–61 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 65 | 61–70 | 58–71 | 58–72 | 56–73 |
@@ -277,21 +277,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 3% | 94% |  |
 | 31 | 5% | 91% |  |
 | 32 | 4% | 86% |  |
-| 33 | 6% | 82% |  |
+| 33 | 5% | 82% |  |
 | 34 | 3% | 76% |  |
 | 35 | 6% | 73% |  |
-| 36 | 5% | 66% |  |
-| 37 | 6% | 62% |  |
-| 38 | 14% | 56% | Median |
-| 39 | 6% | 42% |  |
+| 36 | 4% | 67% |  |
+| 37 | 7% | 63% |  |
+| 38 | 13% | 56% | Median |
+| 39 | 7% | 44% |  |
 | 40 | 8% | 36% |  |
-| 41 | 7% | 27% |  |
-| 42 | 7% | 20% |  |
+| 41 | 7% | 28% |  |
+| 42 | 7% | 21% |  |
 | 43 | 6% | 13% |  |
-| 44 | 2% | 7% |  |
+| 44 | 3% | 8% |  |
 | 45 | 2% | 4% |  |
 | 46 | 0.9% | 3% |  |
-| 47 | 0.8% | 2% |  |
+| 47 | 0.9% | 2% |  |
 | 48 | 0.3% | 0.8% |  |
 | 49 | 0.1% | 0.5% | Last Result |
 | 50 | 0.2% | 0.4% |  |

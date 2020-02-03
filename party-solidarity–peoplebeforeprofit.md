@@ -150,7 +150,7 @@ Last result: **6** seats (General Election of 26 February 2016)
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 1 | 0–1 | 0–2 | 0–3 | 0–4 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 1 | 0–1 | 0–2 | 0–3 | 0–3 |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 1–2 | 0–3 | 0–3 | 0–4 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 2 | 1–4 | 1–4 | 1–4 | 1–5 |
 | [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 2 | 1–4 | 1–4 | 1–5 | 1–6 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0–2 | 0–3 | 0–4 | 0–4 |
@@ -263,9 +263,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 43% | 100% |  |
 | 1 | 32% | 57% | Median |
-| 2 | 2% | 25% |  |
+| 2 | 1.3% | 25% |  |
 | 3 | 3% | 23% |  |
-| 4 | 2% | 20% |  |
+| 4 | 3% | 20% |  |
 | 5 | 2% | 18% |  |
 | 6 | 2% | 16% | Last Result |
 | 7 | 8% | 14% |  |

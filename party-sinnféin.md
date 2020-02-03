@@ -157,9 +157,9 @@ Last result: **23** seats (General Election of 26 February 2016)
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 36 | 34–38 | 34–38 | 34–38 | 32–40 |
 | [16–23 January 2020](2020-01-23-RedC.html) | Red C <br> The Sunday Business Post | 34 | 34–36 | 34–36 | 34–37 | 33–38 |
 | [16–18 January 2020](2020-01-18-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 36 | 35–38 | 35–38 | 35–38 | 34–39 |
-| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 39 | 36–39 | 35–39 | 34–40 | 33–40 |
+| [4–14 January 2020](2020-01-14-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 37 | 36–37 | 35–38 | 34–38 | 33–38 |
 | [24 December 2019](2019-12-24-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 32 | 26–33 | 24–33 | 23–34 | 22–35 |
-| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 37 | 35–39 | 34–39 | 34–40 | 32–41 |
+| [5–17 December 2019](2019-12-17-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 37 | 35–37 | 34–38 | 34–38 | 32–39 |
 | [14–21 November 2019](2019-11-21-RedC.html) | Red C <br> The Sunday Business Post | 16 | 13–22 | 12–23 | 11–24 | 10–27 |
 | [1–12 November 2019](2019-11-12-BehaviourandAttitudes.html) | Behaviour and Attitudes <br> The Sunday Times | 34 | 32–36 | 31–37 | 31–37 | 28–38 |
 | [17–24 October 2019](2019-10-24-RedC.html) | Red C <br> The Sunday Business Post | 17 | 15–22 | 14–24 | 13–25 | 9–26 |
@@ -281,11 +281,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.4% | 99.8% |  |
 | 34 | 5% | 99.4% |  |
 | 35 | 13% | 94% |  |
-| 36 | 12% | 82% |  |
-| 37 | 23% | 70% | Median |
-| 38 | 22% | 47% |  |
-| 39 | 17% | 25% |  |
-| 40 | 4% | 8% |  |
+| 36 | 16% | 81% |  |
+| 37 | 33% | 65% | Median |
+| 38 | 18% | 32% |  |
+| 39 | 6% | 13% |  |
+| 40 | 3% | 7% |  |
 | 41 | 1.4% | 4% |  |
 | 42 | 3% | 3% |  |
 | 43 | 0% | 0% |  |
