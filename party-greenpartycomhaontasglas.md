@@ -11,6 +11,7 @@ Last result: **2.7%** (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.3% | 6.6–10.7% | 6.2–11.2% | 5.9–11.6% | 5.4–12.3% |
+| [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 8.0% | 7.1–9.1% | 6.8–9.4% | 6.6–9.7% | 6.2–10.2% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 10.0% | 8.8–11.3% | 8.5–11.7% | 8.2–12.1% | 7.7–12.7% |
@@ -148,6 +149,7 @@ Last result: **2** seats (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 7–19 | 7–20 | 6–20 | 4–23 |
+| [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 11 | 9–12 | 8–14 | 7–16 | 6–18 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 8 | 7–11 | 6–12 | 6–12 | 4–15 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 18 | 12–20 | 10–21 | 10–22 | 9–25 |
 | [1–25 January 2020](2020-01-25-IrelandThinks.html) | Ireland Thinks <br> The Irish Daily Mail | 16 | 11–19 | 9–20 | 8–21 | 7–23 |
@@ -268,12 +270,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 0.9% | 99.9% |  |
 | 5 | 0.8% | 99.0% |  |
-| 6 | 1.0% | 98% |  |
-| 7 | 13% | 97% |  |
-| 8 | 11% | 84% |  |
-| 9 | 6% | 73% |  |
-| 10 | 7% | 67% |  |
-| 11 | 19% | 60% | Median |
+| 6 | 1.4% | 98% |  |
+| 7 | 9% | 97% |  |
+| 8 | 8% | 87% |  |
+| 9 | 6% | 79% |  |
+| 10 | 10% | 73% |  |
+| 11 | 22% | 64% | Median |
 | 12 | 7% | 42% |  |
 | 13 | 3% | 35% |  |
 | 14 | 3% | 32% |  |
