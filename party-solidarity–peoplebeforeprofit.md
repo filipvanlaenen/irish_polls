@@ -11,7 +11,7 @@ Last result: **3.9%** (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.1% | 0.9–5.4% | 0.7–5.8% | 0.6–6.1% | 0.5–6.7% |
-| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.5–7.0% |
+| [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.5–7.0% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2.0% | 1.6–2.6% | 1.4–2.8% | 1.3–3.0% | 1.2–3.3% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -147,7 +147,7 @@ Last result: **6** seats (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–9 | 0–10 | 0–10 | 0–10 |
-| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 8 | 5–10 | 5–10 | 4–10 | 3–10 |
+| [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 8 | 5–10 | 5–10 | 4–10 | 3–10 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 1 | 1–3 | 0–3 | 0–3 | 0–4 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 7 | 4–9 | 4–10 | 4–10 | 3–10 |

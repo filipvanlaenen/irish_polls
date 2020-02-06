@@ -11,7 +11,7 @@ Last result: **13.8%** (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.7% | 18.8–26.0% | 18.2–26.6% | 17.7–27.1% | 16.8–28.0% |
-| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.8–28.6% |
+| [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.8–28.6% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 25.0% | 23.4–26.7% | 23.0–27.1% | 22.6–27.5% | 21.9–28.3% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 24.5% | 22.8–26.3% | 22.3–26.8% | 21.9–27.3% | 21.1–28.2% |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.8–24.5% |
@@ -155,7 +155,7 @@ Last result: **23** seats (General Election of 26 February 2016)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 36–41 | 35–41 | 34–42 | 34–42 |
-| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 41 | 39–41 | 39–42 | 38–42 | 38–42 |
+| [27 January–2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 41 | 39–41 | 39–42 | 38–42 | 38–42 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 39 | 38–40 | 38–40 | 38–40 | 37–41 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 39 | 38–42 | 37–42 | 37–42 | 36–42 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 37 | 36–39 | 36–39 | 35–39 | 34–40 |
