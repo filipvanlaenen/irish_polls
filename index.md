@@ -5,7 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | FG | FF | SF | Lab | S-PBP | GP | RI | SD | I4C | I |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 February 2016 | General Election | 25.5% <br> 49 | 24.3% <br> 44 | 13.8% <br> 23 | 6.6% <br> 7 | 3.9% <br> 6 | 2.7% <br> 2 | 2.2% <br> 0 | 3.0% <br> 3 | 1.5% <br> 4 | 15.9% <br> 19 |
-| N/A | [Poll Average](average.html) | 18–24% <br> 28–44 | 21–34% <br> 37–62 | 18–27% <br> 34–42 | 3–7% <br> 0–15 | 1–6% <br> 0–9 | 6–12% <br> 6–20 | 0–1% <br> 0 | 1–6% <br> 0–9 | 1–2% <br> 1–4 | 8–15% <br> 3–19 |
+| N/A | [Poll Average](average.html) | 16–24% <br> 24–44 | 20–34% <br> 37–62 | 18–27% <br> 34–42 | 3–7% <br> 0–15 | 1–6% <br> 0–10 | 6–12% <br> 6–20 | 0–1% <br> 0 | 1–6% <br> 0–9 | 1–2% <br> 1–4 | 8–15% <br> 3–19 |
+| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 15–19% <br> 23–34 | 20–25% <br> 36–47 | 23–28% <br> 38–42 | 5–8% <br> 4–15 | 4–7% <br> 4–10 | 7–11% <br> 9–20 | N/A <br> N/A | 2–4% <br> 3–6 | 1–2% <br> 1–4 | 8–12% <br> 6–17 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 18–22% <br> 32–41 | 21–25% <br> 40–49 | 23–28% <br> 38–40 | 3–5% <br> 0–7 | 1–3% <br> 0–3 | 7–10% <br> 7–16 | N/A <br> N/A | 1–3% <br> 2–4 | 1–3% <br> 3–4 | 12–16% <br> 16–21 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 19–24% <br> 33–45 | 22–27% <br> 41–53 | 22–27% <br> 37–42 | 4–7% <br> 1–12 | 1–2% <br> 0–1 | 6–9% <br> 6–12 | N/A <br> N/A | 2–4% <br> 3–8 | 1–2% <br> 1–4 | 9–13% <br> 7–18 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 17–22% <br> 25–37 | 20–26% <br> 34–49 | 19–24% <br> 35–39 | 4–7% <br> 1–11 | 4–7% <br> 4–10 | 8–12% <br> 10–22 | N/A <br> N/A | 4–7% <br> 4–12 | 1–2% <br> 1–4 | 8–12% <br> 5–16 |
