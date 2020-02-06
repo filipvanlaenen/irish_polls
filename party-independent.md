@@ -10,7 +10,8 @@ Last result: **15.9%** (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.4% | 8.7–13.6% | 8.3–14.2% | 8.0–14.7% | 7.4–15.6% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.7–13.4% | 8.3–14.1% | 8.0–14.6% | 7.4–15.5% |
+| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 10.1% | 9.1–11.4% | 8.7–11.8% | 8.5–12.1% | 8.0–12.7% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 13.5% | 12.3–14.8% | 12.0–15.2% | 11.7–15.6% | 11.1–16.2% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 11.2% | 10.0–12.6% | 9.7–13.0% | 9.4–13.3% | 8.8–14.0% |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
@@ -127,16 +128,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.8% | 100% |  |
-| 7.5–8.5% | 7% | 99.2% |  |
-| 8.5–9.5% | 21% | 92% |  |
-| 9.5–10.5% | 24% | 71% | Median |
-| 10.5–11.5% | 17% | 47% |  |
-| 11.5–12.5% | 10% | 30% |  |
-| 12.5–13.5% | 9% | 19% |  |
-| 13.5–14.5% | 7% | 10% |  |
-| 14.5–15.5% | 3% | 3% |  |
-| 15.5–16.5% | 0.5% | 0.5% | Last Result |
+| 6.5–7.5% | 0.7% | 100% |  |
+| 7.5–8.5% | 7% | 99.3% |  |
+| 8.5–9.5% | 21% | 93% |  |
+| 9.5–10.5% | 27% | 72% | Median |
+| 10.5–11.5% | 19% | 45% |  |
+| 11.5–12.5% | 10% | 26% |  |
+| 12.5–13.5% | 8% | 16% |  |
+| 13.5–14.5% | 6% | 9% |  |
+| 14.5–15.5% | 2% | 3% |  |
+| 15.5–16.5% | 0.4% | 0.4% | Last Result |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -148,7 +149,8 @@ Last result: **19** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 6–18 | 4–18 | 3–19 | 3–21 |
+| N/A | [Poll Average](average.html) | 11 | 6–17 | 4–18 | 3–19 | 3–21 |
+| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 11 | 8–16 | 7–17 | 6–17 | 4–17 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 18 | 17–19 | 16–20 | 16–21 | 14–22 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 14 | 10–17 | 8–17 | 7–18 | 6–19 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 11 | 6–15 | 5–15 | 5–16 | 4–17 |
@@ -266,25 +268,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 5% | 100% |  |
-| 4 | 2% | 95% |  |
-| 5 | 3% | 94% |  |
-| 6 | 3% | 91% |  |
-| 7 | 6% | 88% |  |
-| 8 | 6% | 81% |  |
-| 9 | 4% | 76% |  |
-| 10 | 15% | 71% |  |
-| 11 | 7% | 57% |  |
-| 12 | 6% | 50% | Median |
-| 13 | 9% | 44% |  |
-| 14 | 4% | 36% |  |
-| 15 | 6% | 32% |  |
-| 16 | 5% | 26% |  |
-| 17 | 10% | 21% |  |
-| 18 | 7% | 11% |  |
-| 19 | 3% | 4% | Last Result |
-| 20 | 0.4% | 1.1% |  |
-| 21 | 0.4% | 0.7% |  |
+| 3 | 4% | 100% |  |
+| 4 | 2% | 96% |  |
+| 5 | 2% | 95% |  |
+| 6 | 3% | 92% |  |
+| 7 | 6% | 89% |  |
+| 8 | 7% | 83% |  |
+| 9 | 6% | 76% |  |
+| 10 | 14% | 70% |  |
+| 11 | 7% | 56% | Median |
+| 12 | 7% | 49% |  |
+| 13 | 9% | 43% |  |
+| 14 | 4% | 34% |  |
+| 15 | 6% | 30% |  |
+| 16 | 5% | 24% |  |
+| 17 | 10% | 19% |  |
+| 18 | 6% | 9% |  |
+| 19 | 2% | 3% | Last Result |
+| 20 | 0.3% | 0.9% |  |
+| 21 | 0.4% | 0.6% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 

@@ -10,7 +10,8 @@ Last result: **6.6%** (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.8% | 3.7–6.3% | 3.4–6.7% | 3.2–7.1% | 2.8–7.8% |
+| N/A | [Poll Average](average.html) | 5.1% | 3.7–6.5% | 3.5–6.9% | 3.2–7.2% | 2.9–7.9% |
+| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.5% | 4.3–8.1% |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 4.0% | 3.4–4.8% | 3.2–5.1% | 3.0–5.3% | 2.7–5.7% |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -127,13 +128,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 8% | 99.9% |  |
-| 3.5–4.5% | 32% | 92% |  |
-| 4.5–5.5% | 33% | 60% | Median |
-| 5.5–6.5% | 20% | 27% |  |
-| 6.5–7.5% | 6% | 7% | Last Result |
-| 7.5–8.5% | 0.8% | 0.9% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 6% | 99.9% |  |
+| 3.5–4.5% | 27% | 93% |  |
+| 4.5–5.5% | 32% | 67% | Median |
+| 5.5–6.5% | 25% | 35% |  |
+| 6.5–7.5% | 9% | 10% | Last Result |
+| 7.5–8.5% | 1.1% | 1.2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -145,7 +146,8 @@ Last result: **7** seats (General Election of 26 February 2016)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 1–9 | 0–12 | 0–15 | 0–17 |
+| N/A | [Poll Average](average.html) | 5 | 1–11 | 0–14 | 0–15 | 0–17 |
+| [2 February 2020](2020-02-02-Survation.html) | Survation <br> Sinn Féin | 9 | 4–14 | 4–15 | 4–15 | 3–17 |
 | [30 January–1 February 2020](2020-02-01-IpsosMRBI.html) | Ipsos MRBI <br> The Irish Times | 2 | 1–5 | 1–6 | 0–7 | 0–8 |
 | [25–30 January 2020](2020-01-30-RedC.html) | Red C <br> The Sunday Business Post | 5 | 2–8 | 1–11 | 1–12 | 1–15 |
 | [24–30 January 2020](2020-01-30-Panelbase.html) | Panelbase <br> The Times | 4 | 2–6 | 2–6 | 1–11 | 1–13 |
@@ -263,25 +265,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 13% | 90% |  |
-| 2 | 14% | 78% |  |
-| 3 | 6% | 64% |  |
-| 4 | 14% | 58% | Median |
-| 5 | 15% | 44% |  |
-| 6 | 9% | 29% |  |
-| 7 | 7% | 21% | Last Result |
-| 8 | 3% | 14% |  |
-| 9 | 2% | 11% |  |
-| 10 | 3% | 9% |  |
-| 11 | 0.9% | 7% |  |
-| 12 | 1.2% | 6% |  |
-| 13 | 1.1% | 5% |  |
-| 14 | 0.8% | 3% |  |
-| 15 | 0.8% | 3% |  |
+| 0 | 8% | 100% |  |
+| 1 | 10% | 92% |  |
+| 2 | 11% | 81% |  |
+| 3 | 5% | 70% |  |
+| 4 | 14% | 65% |  |
+| 5 | 13% | 51% | Median |
+| 6 | 9% | 38% |  |
+| 7 | 6% | 29% | Last Result |
+| 8 | 5% | 23% |  |
+| 9 | 4% | 19% |  |
+| 10 | 3% | 15% |  |
+| 11 | 2% | 12% |  |
+| 12 | 2% | 10% |  |
+| 13 | 2% | 7% |  |
+| 14 | 2% | 5% |  |
+| 15 | 1.1% | 3% |  |
 | 16 | 1.0% | 2% |  |
-| 17 | 0.5% | 0.8% |  |
+| 17 | 0.6% | 0.9% |  |
 | 18 | 0.3% | 0.3% |  |
-| 19 | 0% | 0% |  |
+| 19 | 0% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 
