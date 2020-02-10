@@ -1,4 +1,4 @@
-# Opinion Poll by Survation for Sinn Féin, 2 February 2020
+# Opinion Poll by Survation for Sinn Féin, 27 January–2 February 2020
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -953,7 +953,7 @@
 
 + **Polling firm:** Survation
 + **Commissioner(s):** Sinn Féin
-+ **Fieldwork period:** 2 February 2020
++ **Fieldwork period:** 27 January–2 February 2020
 
 ### Calculations
 
