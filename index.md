@@ -2,7 +2,7 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period                                                     | Polling firm/Commissioner(s)                  | FG                                                  | FF                                                  | SF                                 | Lab                             | S-PBP                                           | GP                                | RI           | SD                                              | I4C                                             | I                                                 | Performance  |
+| Period                                                     | Polling firm/Commissioner(s)                  | FG                                                  | FF                                                  | SF                                 | Lab                             | S-PBP                                           | GP                                | RI           | SD                                              | I4C                                             | I                                                 | Performance¹ |
 |:----------------------------------------------------------:|:---------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------------:|:----------------------------------:|:-------------------------------:|:-----------------------------------------------:|:---------------------------------:|:------------:|:-----------------------------------------------:|:-----------------------------------------------:|:-------------------------------------------------:|:------------:|
 | 8 February 2020                                            | General Election                              | 20.9% <br> 35                                       | 22.2% <br> 38                                       | 24.5% <br> 37                      | 4.4% <br> 6                     | 2.9% <br> 6                                     | 7.1% <br> 12                      | 0.3% <br> 0  | 2.9% <br> 6                                     | 0.4% <br> 1                                     | 12.2% <br> 19                                     | N/A          |
 | N/A                                                        | [Poll Average](average.html)                  | 16–24% <br> 24–44                                   | 20–34% <br> 37–62                                   | 18–27% <br> 34–42                  | 3–7% <br> 0–15                  | 1–6% <br> 0–10                                  | 6–12% <br> 6–20                   | 0–1% <br> 0  | 1–6% <br> 0–9                                   | <strike>1–2%</strike> <br> 1–4                  | 8–15% <br> 3–19                                   | 8/8 <br> 8/8 |
@@ -29,7 +29,8 @@ Only polls for which at least the sample size has been published are included in
 + **SD:** Social Democrats
 + **I4C:** Independents 4 Change
 + **I:** Independent
-+ **Performance:** How well the pollster did in terms of number of results within the 95% confidence interval, not including I4C
++ **Performance:** How well the pollster did in terms of number of results within the 95% confidence interval
++ **¹:** I4C is not included in the calculation of the performance, because they were usually not polled separately
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
